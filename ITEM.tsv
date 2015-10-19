@@ -1,107 +1,107 @@
-ITEM_20150317_000001	$Empty_helmet 
-ITEM_20150317_000002	$Murmillo Helmet 
-ITEM_20150317_000003	$Empty_armband 
-ITEM_20150317_000004	$Red Armband 
-ITEM_20150317_000005	$Armband 
-ITEM_20150317_000006	$Knotted Armband 
-ITEM_20150317_000007	$Long Armband 
-ITEM_20150317_000008	$Feather Armband 
-ITEM_20150317_000009	$Tasseled Armband 
-ITEM_20150317_000010	$Empty_weapon 
-ITEM_20150317_000011	{memo X}$Crude Gladius 
-ITEM_20150317_000012	$One-Handed Sword [Slash] 
+ITEM_20150317_000001	$Capacete_vazio
+ITEM_20150317_000002	$Capacete Murmillo
+ITEM_20150317_000003	$Braçadeira_vazia 
+ITEM_20150317_000004	$Braçadeira Vermelha
+ITEM_20150317_000005	$Braçadeira
+ITEM_20150317_000006	$Braçadeira Atada
+ITEM_20150317_000007	$Braçadeira Longa 
+ITEM_20150317_000008	$Braçadeira de Penas
+ITEM_20150317_000009	$Braçadeira em Borla
+ITEM_20150317_000010	$Arma_vazia
+ITEM_20150317_000011	{memo X}$Gládio Bruto
+ITEM_20150317_000012	$Espada de Uma Mão [Slash] 
 ITEM_20150317_000013	$Arma comumente usada e atribuida a soldados do reino.
-ITEM_20150317_000014	$Gladius 
+ITEM_20150317_000014	$Gládio 
 ITEM_20150317_000015	$Essa arma é forjada no ambito de superar sua versão militar.
-ITEM_20150317_000016	{memo X}$Low Falchion 
+ITEM_20150317_000016	{memo X}$Alfanje Curto
 ITEM_20150317_000017	$Essa espada é exceptional em lacerar.
-ITEM_20150317_000018	{memo X}$Low Kaskara 
+ITEM_20150317_000018	{memo X}$Kaskara Curta
 ITEM_20150317_000019	$Devido a sua facilidade de produção manual, essa espada é frequentemente substituída por aventureiros como sua primeira espada para treino. 
-ITEM_20150317_000020	$Cinquedea 
+ITEM_20150317_000020	$Espada Curta 
 ITEM_20150317_000021	$Recomendada á aqueles que desejem uma espada de peso e maior força.
 ITEM_20150317_000022	$Sabre 
 ITEM_20150317_000023	$Arma primária das Cavalarias, aprimorada para lacerar. A guarda no estribo ajuda a protejer a mão do usuário.
-ITEM_20150317_000024	$Shamshir 
+ITEM_20150317_000024	$Sabre Curvo 
 ITEM_20150317_000025	$Seu largo gume em meia-lua permite por um laceramento poderoso.
-ITEM_20150317_000026	$Scimitar 
+ITEM_20150317_000026	$Cimitarra 
 ITEM_20150317_000027	$Seu peso é compesado por seus laceramentos poderosos.
-ITEM_20150317_000028	$Kris 
+ITEM_20150317_000028	$Adaga 
 ITEM_20150317_000029	$Seu gume torcido amplifica o dano infligido. Uma espada que é tanto prática quanto decorativa.
-ITEM_20150317_000030	$Snickersnee 
+ITEM_20150317_000030	$Facão Longo
 ITEM_20150317_000031	$Sua lâmina extremamente afiada faz dela a favorita até entre os mais experiente espadachins.
-ITEM_20150317_000032	{memo X}$Crude Shamshir 
-ITEM_20150317_000033	{memo X}$Crude Scimitar 
-ITEM_20150317_000034	$Soldier's Gladius 
+ITEM_20150317_000032	{memo X}$Sabre Curvo Bruto
+ITEM_20150317_000033	{memo X}$Cimitarra Bruta 
+ITEM_20150317_000034	$Gládio Militar
 ITEM_20150317_000035	$Armamento basico atribuido a soldados de tempo integral. Sua qualidade em geral é melhor que as vendidas no mercado.
-ITEM_20150317_000036	$Mayor's Falchion 
+ITEM_20150317_000036	$Alfange do Prefeito 
 ITEM_20150317_000037	$Esta arma parece levantar suspeitas sobre o passado de seu antigo dono.
-ITEM_20150317_000038	{memo X}$Crude Kaskara 
-ITEM_20150317_000039	$Moplah 
+ITEM_20150317_000038	{memo X}$Kaskara Bruta 
+ITEM_20150317_000039	$Facão Curto
 ITEM_20150317_000040	$Essa espada é uma combinação de praticidade e estética.
-ITEM_20150317_000041	{memo X}$Heavy Gladius 
-ITEM_20150317_000042	$Falchion 
-ITEM_20150317_000043	{memo X}$Heavy Falchion 
+ITEM_20150317_000041	{memo X}$Gládio Pesado 
+ITEM_20150317_000042	$Alfanje 
+ITEM_20150317_000043	{memo X}$Alfanje Pesado
 ITEM_20150317_000044	$Kaskara 
-ITEM_20150317_000045	{memo X}$Heavy Cinquedea 
-ITEM_20150317_000046	{memo X}$Heavy Sabre 
-ITEM_20150317_000047	{memo X}$Heavy Shamshir 
-ITEM_20150317_000048	$Dunkel Sabre 
-ITEM_20150317_000049	$Dunkel Snickersnee 
-ITEM_20150317_000050	$Dunkel Falchion 
-ITEM_20150317_000051	$Dunkel Kaskara 
-ITEM_20150317_000052	$Dunkel Cinquedea 
-ITEM_20150317_000053	$Dunkel Shamshir 
-ITEM_20150317_000054	$Kozuka 
-ITEM_20150317_000055	{memo X}$No tooltip available. 
-ITEM_20150317_000056	$Badelaire 
-ITEM_20150317_000057	$Saif 
-ITEM_20150317_000058	$Colichemarde 
-ITEM_20150317_000059	$Firangi 
-ITEM_20150317_000060	$Thorn Cutter 
-ITEM_20150317_000061	$Demion Sword 
-ITEM_20150317_000062	$Master Sword 
-ITEM_20150317_000063	$Panto Sword 
+ITEM_20150317_000045	{memo X}$Espada Curta Pesada
+ITEM_20150317_000046	{memo X}$Sabre Pesado 
+ITEM_20150317_000047	{memo X}$Sabre Curvo Pesado
+ITEM_20150317_000048	$Sabre Escuro 
+ITEM_20150317_000049	$Facão Escuro 
+ITEM_20150317_000050	$Alfanje Escura
+ITEM_20150317_000051	$Kaskara Escura 
+ITEM_20150317_000052	$Espada Curta Escura 
+ITEM_20150317_000053	$Sabre Curvo Escuro 
+ITEM_20150317_000054	$Faca Oriental 
+ITEM_20150317_000055	{memo X}$Não existe dica disponível. 
+ITEM_20150317_000056	$Espada Curva 
+ITEM_20150317_000057	$Espada Árabe 
+ITEM_20150317_000058	$Espada Longa de Uma Mão
+ITEM_20150317_000059	$Espada Indiana 
+ITEM_20150317_000060	$Espinho de Corte
+ITEM_20150317_000061	$Espada Subestimada
+ITEM_20150317_000062	$Espada do Mestre
+ITEM_20150317_000063	$Espada do Panto 
 ITEM_20150317_000064	$Espada bruta usada pelo Panto. Você poderia forjar uma versão melhor por si mesmo.
-ITEM_20150317_000065	$Flonas Sabre 
+ITEM_20150317_000065	$Sabre da Floresta 
 ITEM_20150317_000066	$Alguns dizem que está arma desencadeia o rancor que as plantas sentem pelas bestas.
-ITEM_20150317_000067	$Golden Falchion 
-ITEM_20150317_000068	$Possivelmente pela correlação do ouro e a fortuna, a Golden Falchion concede seu manusiador com boa sorte durante a batalha. É claro, ela fere severamente seus inimigos.
-ITEM_20150317_000069	$Steel Falchion 
-ITEM_20150317_000070	$A Steel Falchion é uma boa escolha para aqueles que buscam precisão na esgrima.
-ITEM_20150317_000071	$Silver Falchion 
+ITEM_20150317_000067	$Alfanje da Fortuna
+ITEM_20150317_000068	$Possivelmente pela correlação do ouro e a fortuna, o Alfanje da Fortuna concede seu manusiador com boa sorte durante a batalha. É claro, ela fere severamente seus inimigos.
+ITEM_20150317_000069	$Alfanje de Ferro 
+ITEM_20150317_000070	$O Alfanje de Ferro é uma boa escolha para aqueles que buscam precisão na esgrima.
+ITEM_20150317_000071	$Alfanje de Prata 
 ITEM_20150317_000072	$Seu leve peso e resistência permite o espadachin liberar todo seu potencial durante o ataque.
 ITEM_20150317_000073	$Mandrapick 
 ITEM_20150317_000074	$Essa espada promete limpar a mente de seu manejador com sua essência de Mandragora.
-ITEM_20150317_000075	$Wizard Blade 
-ITEM_20150317_000076	$Você nunca deve ridiculizar um mago por manusiar uma espada, especialmente se essa espada é uma Wizard Blade.
-ITEM_20150317_000077	$Cheminis Sword 
-ITEM_20150317_000078	$Essa espada é feita de uma receita desenvolvida por um alquemista da família de Winterspoon, que aclamaram que ele conseguia fazer uma espada melhor que um artesão.
+ITEM_20150317_000075	$Espada do Mago 
+ITEM_20150317_000076	$Você nunca deve ridiculizar um mago por manusiar uma espada, especialmente se essa espada é uma Espada do Mago.
+ITEM_20150317_000077	$Espada de Cheminis 
+ITEM_20150317_000078	$Essa espada é feita de uma receita desenvolvida por um alquimista da família de Winterspoon, que aclamaram que ele conseguia fazer uma espada melhor que um artesão.
 ITEM_20150317_000079	$Austas 
 ITEM_20150317_000080	$Essa espada compensa seu preço excessivo. Entretanto, mercadores podem preferir que você volte a comprar novas armas do que continuar a usa-la por um longo tempo.
-ITEM_20150317_000081	$Miskas Sabre 
+ITEM_20150317_000081	$Sabre Miskas
 ITEM_20150317_000082	$Essa arma fará sua esgrima mais veloz.
-ITEM_20150317_000083	$Imperni Sword 
+ITEM_20150317_000083	$Espada Primal
 ITEM_20150317_000084	$Veteranos frenquentemente recordam emocionados suas experiências de quando progredindo como novato e primeiramente empunhando essa espada. 
 ITEM_20150317_000085	$Gritas 
 ITEM_20150317_000086	$Uma espada usada por aventureiros valorosos. Ironicamente, é encontrada em monstros fortes. A pessoa que obter a essa espada está irracionamente acertando contas para seu antigo dono. 
 ITEM_20150317_000087	$Spatha 
 ITEM_20150317_000088	{memo X}$Uma versão aprimorada da Gladius feita com sua lâmina extendida. 
-ITEM_20150317_000089	$Aras' Falchion 
+ITEM_20150317_000089	$Alfanje de Aras 
 ITEM_20150317_000090	$Essa arma lhe da a opotunidade de experienciar as capacidades de uma Falchion.
-ITEM_20150317_000091	$Smith Sword 
+ITEM_20150317_000091	$Lamina do Ferreiro
 ITEM_20150317_000092	{memo X}$- 2% de chance em causar um adicional de +600% de dano.
-ITEM_20150317_000093	{memo X}$Essa espada ocasionalmente reluz devida a forjabilidade de seu artesão.
-ITEM_20150317_000094	$Klavis Sword 
+ITEM_20150317_000093	{memo X}$Essa espada ocasionalmente reluz devida a forjabilidade de seu criador.
+ITEM_20150317_000094	$Espada Klavis
 ITEM_20150317_000095	$Devida sua qualidade, é vendida relativamente bem.
-ITEM_20150317_000096	$Dio Sword 
-ITEM_20150317_000097	$Thresh Sword 
-ITEM_20150317_000098	$Sestas Sword 
-ITEM_20150317_000099	$Dratt Sword 
-ITEM_20150317_000100	$Aston Sword 
-ITEM_20150317_000101	{memo X}$Devi Sword 
-ITEM_20150317_000102	{memo X}$Prima Sword 
-ITEM_20150317_000103	$Trinity Sword 
-ITEM_20150317_000104	$Se está insatisfeito com o modelo de uma Falchion, eis uma alternativa. Entretando, terá de fornecer um custo adicional pela sua produção.
+ITEM_20150317_000096	$Lamina Divina
+ITEM_20150317_000097	$Espada de Thresh 
+ITEM_20150317_000098	$Espada de Sestas
+ITEM_20150317_000099	$Espada de Dratt
+ITEM_20150317_000100	$Espada de Aston
+ITEM_20150317_000101	{memo X}$Lamina Devi 
+ITEM_20150317_000102	{memo X}$Lamina Prima
+ITEM_20150317_000103	$Espada da Trindade
+ITEM_20150317_000104	$Se está insatisfeito com o modelo de um alfanje, eis uma alternativa. Entretando, terá de fornecer um custo adicional pela sua produção.
 ITEM_20150317_000105	$Durandal 
 ITEM_20150317_000106	$Muitos aventureiros a nomeeiam como sua melhor espada ao obter-lá. Esse foi o nome da espada empunhada por antigo guerreiro escolhido por uma Deusa.
 ITEM_20150317_000107	$Velniup 
