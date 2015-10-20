@@ -1,107 +1,107 @@
-ITEM_20150317_000001	$Capacete_vazio
-ITEM_20150317_000002	$Capacete Murmillo
-ITEM_20150317_000003	$Braçadeira_vazia 
-ITEM_20150317_000004	$Braçadeira Vermelha
-ITEM_20150317_000005	$Braçadeira
-ITEM_20150317_000006	$Braçadeira Atada
-ITEM_20150317_000007	$Braçadeira Longa 
-ITEM_20150317_000008	$Braçadeira de Penas
-ITEM_20150317_000009	$Braçadeira em Borla
-ITEM_20150317_000010	$Arma_vazia
-ITEM_20150317_000011	{memo X}$Gládio Bruto
-ITEM_20150317_000012	$Espada de Uma Mão [Slash] 
+ITEM_20150317_000001	$Empty_helmet 
+ITEM_20150317_000002	$Murmillo Helmet 
+ITEM_20150317_000003	$Empty_armband 
+ITEM_20150317_000004	$Red Armband 
+ITEM_20150317_000005	$Armband 
+ITEM_20150317_000006	$Knotted Armband 
+ITEM_20150317_000007	$Long Armband 
+ITEM_20150317_000008	$Feather Armband 
+ITEM_20150317_000009	$Tasseled Armband 
+ITEM_20150317_000010	$Empty_weapon 
+ITEM_20150317_000011	{memo X}$Crude Gladius 
+ITEM_20150317_000012	$One-Handed Sword [Slash] 
 ITEM_20150317_000013	$Arma comumente usada e atribuida a soldados do reino.
-ITEM_20150317_000014	$Gládio 
+ITEM_20150317_000014	$Gladius 
 ITEM_20150317_000015	$Essa arma é forjada no ambito de superar sua versão militar.
-ITEM_20150317_000016	{memo X}$Alfanje Curto
+ITEM_20150317_000016	{memo X}$Low Falchion 
 ITEM_20150317_000017	$Essa espada é exceptional em lacerar.
-ITEM_20150317_000018	{memo X}$Kaskara Curta
+ITEM_20150317_000018	{memo X}$Low Kaskara 
 ITEM_20150317_000019	$Devido a sua facilidade de produção manual, essa espada é frequentemente substituída por aventureiros como sua primeira espada para treino. 
-ITEM_20150317_000020	$Espada Curta 
+ITEM_20150317_000020	$Cinquedea 
 ITEM_20150317_000021	$Recomendada á aqueles que desejem uma espada de peso e maior força.
 ITEM_20150317_000022	$Sabre 
 ITEM_20150317_000023	$Arma primária das Cavalarias, aprimorada para lacerar. A guarda no estribo ajuda a protejer a mão do usuário.
-ITEM_20150317_000024	$Sabre Curvo 
+ITEM_20150317_000024	$Shamshir 
 ITEM_20150317_000025	$Seu largo gume em meia-lua permite por um laceramento poderoso.
-ITEM_20150317_000026	$Cimitarra 
+ITEM_20150317_000026	$Scimitar 
 ITEM_20150317_000027	$Seu peso é compesado por seus laceramentos poderosos.
-ITEM_20150317_000028	$Adaga 
+ITEM_20150317_000028	$Kris 
 ITEM_20150317_000029	$Seu gume torcido amplifica o dano infligido. Uma espada que é tanto prática quanto decorativa.
-ITEM_20150317_000030	$Facão Longo
+ITEM_20150317_000030	$Snickersnee 
 ITEM_20150317_000031	$Sua lâmina extremamente afiada faz dela a favorita até entre os mais experiente espadachins.
-ITEM_20150317_000032	{memo X}$Sabre Curvo Bruto
-ITEM_20150317_000033	{memo X}$Cimitarra Bruta 
-ITEM_20150317_000034	$Gládio Militar
+ITEM_20150317_000032	{memo X}$Crude Shamshir 
+ITEM_20150317_000033	{memo X}$Crude Scimitar 
+ITEM_20150317_000034	$Soldier's Gladius 
 ITEM_20150317_000035	$Armamento basico atribuido a soldados de tempo integral. Sua qualidade em geral é melhor que as vendidas no mercado.
-ITEM_20150317_000036	$Alfange do Prefeito 
+ITEM_20150317_000036	$Mayor's Falchion 
 ITEM_20150317_000037	$Esta arma parece levantar suspeitas sobre o passado de seu antigo dono.
-ITEM_20150317_000038	{memo X}$Kaskara Bruta 
-ITEM_20150317_000039	$Facão Curto
+ITEM_20150317_000038	{memo X}$Crude Kaskara 
+ITEM_20150317_000039	$Moplah 
 ITEM_20150317_000040	$Essa espada é uma combinação de praticidade e estética.
-ITEM_20150317_000041	{memo X}$Gládio Pesado 
-ITEM_20150317_000042	$Alfanje 
-ITEM_20150317_000043	{memo X}$Alfanje Pesado
+ITEM_20150317_000041	{memo X}$Heavy Gladius 
+ITEM_20150317_000042	$Falchion 
+ITEM_20150317_000043	{memo X}$Heavy Falchion 
 ITEM_20150317_000044	$Kaskara 
-ITEM_20150317_000045	{memo X}$Espada Curta Pesada
-ITEM_20150317_000046	{memo X}$Sabre Pesado 
-ITEM_20150317_000047	{memo X}$Sabre Curvo Pesado
-ITEM_20150317_000048	$Sabre Escuro 
-ITEM_20150317_000049	$Facão Escuro 
-ITEM_20150317_000050	$Alfanje Escura
-ITEM_20150317_000051	$Kaskara Escura 
-ITEM_20150317_000052	$Espada Curta Escura 
-ITEM_20150317_000053	$Sabre Curvo Escuro 
-ITEM_20150317_000054	$Faca Oriental 
-ITEM_20150317_000055	{memo X}$Não existe dica disponível. 
-ITEM_20150317_000056	$Espada Curva 
-ITEM_20150317_000057	$Espada Árabe 
-ITEM_20150317_000058	$Espada Longa de Uma Mão
-ITEM_20150317_000059	$Espada Indiana 
-ITEM_20150317_000060	$Espinho de Corte
-ITEM_20150317_000061	$Espada Subestimada
-ITEM_20150317_000062	$Espada do Mestre
-ITEM_20150317_000063	$Espada do Panto 
+ITEM_20150317_000045	{memo X}$Heavy Cinquedea 
+ITEM_20150317_000046	{memo X}$Heavy Sabre 
+ITEM_20150317_000047	{memo X}$Heavy Shamshir 
+ITEM_20150317_000048	$Dunkel Sabre 
+ITEM_20150317_000049	$Dunkel Snickersnee 
+ITEM_20150317_000050	$Dunkel Falchion 
+ITEM_20150317_000051	$Dunkel Kaskara 
+ITEM_20150317_000052	$Dunkel Cinquedea 
+ITEM_20150317_000053	$Dunkel Shamshir 
+ITEM_20150317_000054	$Kozuka 
+ITEM_20150317_000055	{memo X}$No tooltip available. 
+ITEM_20150317_000056	$Badelaire 
+ITEM_20150317_000057	$Saif 
+ITEM_20150317_000058	$Colichemarde 
+ITEM_20150317_000059	$Firangi 
+ITEM_20150317_000060	$Thorn Cutter 
+ITEM_20150317_000061	$Demion Sword 
+ITEM_20150317_000062	$Master Sword 
+ITEM_20150317_000063	$Panto Sword 
 ITEM_20150317_000064	$Espada bruta usada pelo Panto. Você poderia forjar uma versão melhor por si mesmo.
-ITEM_20150317_000065	$Sabre da Floresta 
+ITEM_20150317_000065	$Flonas Sabre 
 ITEM_20150317_000066	$Alguns dizem que está arma desencadeia o rancor que as plantas sentem pelas bestas.
-ITEM_20150317_000067	$Alfanje da Fortuna
-ITEM_20150317_000068	$Possivelmente pela correlação do ouro e a fortuna, o Alfanje da Fortuna concede seu manusiador com boa sorte durante a batalha. É claro, ela fere severamente seus inimigos.
-ITEM_20150317_000069	$Alfanje de Ferro 
-ITEM_20150317_000070	$O Alfanje de Ferro é uma boa escolha para aqueles que buscam precisão na esgrima.
-ITEM_20150317_000071	$Alfanje de Prata 
+ITEM_20150317_000067	$Golden Falchion 
+ITEM_20150317_000068	$Possivelmente pela correlação do ouro e a fortuna, a Golden Falchion concede seu manusiador com boa sorte durante a batalha. É claro, ela fere severamente seus inimigos.
+ITEM_20150317_000069	$Steel Falchion 
+ITEM_20150317_000070	$A Steel Falchion é uma boa escolha para aqueles que buscam precisão na esgrima.
+ITEM_20150317_000071	$Silver Falchion 
 ITEM_20150317_000072	$Seu leve peso e resistência permite o espadachin liberar todo seu potencial durante o ataque.
 ITEM_20150317_000073	$Mandrapick 
 ITEM_20150317_000074	$Essa espada promete limpar a mente de seu manejador com sua essência de Mandragora.
-ITEM_20150317_000075	$Espada do Mago 
-ITEM_20150317_000076	$Você nunca deve ridiculizar um mago por manusiar uma espada, especialmente se essa espada é uma Espada do Mago.
-ITEM_20150317_000077	$Espada de Cheminis 
-ITEM_20150317_000078	$Essa espada é feita de uma receita desenvolvida por um alquimista da família de Winterspoon, que aclamaram que ele conseguia fazer uma espada melhor que um artesão.
+ITEM_20150317_000075	$Wizard Blade 
+ITEM_20150317_000076	$Você nunca deve ridiculizar um mago por manusiar uma espada, especialmente se essa espada é uma Wizard Blade.
+ITEM_20150317_000077	$Cheminis Sword 
+ITEM_20150317_000078	$Essa espada é feita de uma receita desenvolvida por um alquemista da família de Winterspoon, que aclamaram que ele conseguia fazer uma espada melhor que um artesão.
 ITEM_20150317_000079	$Austas 
 ITEM_20150317_000080	$Essa espada compensa seu preço excessivo. Entretanto, mercadores podem preferir que você volte a comprar novas armas do que continuar a usa-la por um longo tempo.
-ITEM_20150317_000081	$Sabre Miskas
+ITEM_20150317_000081	$Miskas Sabre 
 ITEM_20150317_000082	$Essa arma fará sua esgrima mais veloz.
-ITEM_20150317_000083	$Espada Primal
+ITEM_20150317_000083	$Imperni Sword 
 ITEM_20150317_000084	$Veteranos frenquentemente recordam emocionados suas experiências de quando progredindo como novato e primeiramente empunhando essa espada. 
 ITEM_20150317_000085	$Gritas 
 ITEM_20150317_000086	$Uma espada usada por aventureiros valorosos. Ironicamente, é encontrada em monstros fortes. A pessoa que obter a essa espada está irracionamente acertando contas para seu antigo dono. 
 ITEM_20150317_000087	$Spatha 
 ITEM_20150317_000088	{memo X}$Uma versão aprimorada da Gladius feita com sua lâmina extendida. 
-ITEM_20150317_000089	$Alfanje de Aras 
+ITEM_20150317_000089	$Aras' Falchion 
 ITEM_20150317_000090	$Essa arma lhe da a opotunidade de experienciar as capacidades de uma Falchion.
-ITEM_20150317_000091	$Lamina do Ferreiro
+ITEM_20150317_000091	$Smith Sword 
 ITEM_20150317_000092	{memo X}$- 2% de chance em causar um adicional de +600% de dano.
-ITEM_20150317_000093	{memo X}$Essa espada ocasionalmente reluz devida a forjabilidade de seu criador.
-ITEM_20150317_000094	$Espada Klavis
+ITEM_20150317_000093	{memo X}$Essa espada ocasionalmente reluz devida a forjabilidade de seu artesão.
+ITEM_20150317_000094	$Klavis Sword 
 ITEM_20150317_000095	$Devida sua qualidade, é vendida relativamente bem.
-ITEM_20150317_000096	$Lamina Divina
-ITEM_20150317_000097	$Espada de Thresh 
-ITEM_20150317_000098	$Espada de Sestas
-ITEM_20150317_000099	$Espada de Dratt
-ITEM_20150317_000100	$Espada de Aston
-ITEM_20150317_000101	{memo X}$Lamina Devi 
-ITEM_20150317_000102	{memo X}$Lamina Prima
-ITEM_20150317_000103	$Espada da Trindade
-ITEM_20150317_000104	$Se está insatisfeito com o modelo de um alfanje, eis uma alternativa. Entretando, terá de fornecer um custo adicional pela sua produção.
+ITEM_20150317_000096	$Dio Sword 
+ITEM_20150317_000097	$Thresh Sword 
+ITEM_20150317_000098	$Sestas Sword 
+ITEM_20150317_000099	$Dratt Sword 
+ITEM_20150317_000100	$Aston Sword 
+ITEM_20150317_000101	{memo X}$Devi Sword 
+ITEM_20150317_000102	{memo X}$Prima Sword 
+ITEM_20150317_000103	$Trinity Sword 
+ITEM_20150317_000104	$Se está insatisfeito com o modelo de uma Falchion, eis uma alternativa. Entretando, terá de fornecer um custo adicional pela sua produção.
 ITEM_20150317_000105	$Durandal 
 ITEM_20150317_000106	$Muitos aventureiros a nomeeiam como sua melhor espada ao obter-lá. Esse foi o nome da espada empunhada por antigo guerreiro escolhido por uma Deusa.
 ITEM_20150317_000107	$Velniup 
@@ -160,27 +160,27 @@ ITEM_20150317_000159	$Uma ótima alternativa para aqueles insatisfeitos com a Fl
 ITEM_20150317_000160	$Temsus Flamberge 
 ITEM_20150317_000161	$Uma espada com grande capacidade para aprimoramento que complementa o poder inato de quem empunhala. Tente seu potencial por si mesmo.ITEM_20150317_000162	$Didel Colossus 
 ITEM_20150317_000162	$Didel Colossus 
-ITEM_20150317_000163	$This sword is for those who seek more weight, more power, and more reach in their slashes. 
+ITEM_20150317_000163	$Essa é a espada para aqueles que buscam maior peso, maior poder, e maior poder de alcance nos cortes.
 ITEM_20150317_000164	$Collecture 
-ITEM_20150317_000165	{memo X}$Though popular in battles today, this weapon was considered a decorative or collectible item prior to the Great Plant Cataclysm. 
+ITEM_20150317_000165	{memo X}$Embora popular em batalhas hoje em dia, essa arma foi considerada um item decorativo ou colecionável nos primódios do Great Plant Cataclysm.
 ITEM_20150317_000166	$Hogma Great Sword 
-ITEM_20150317_000167	$How the Hogmas obtained or crafted this weapon is unimportant. We are more concerned with crafting and using it ourselves. 
+ITEM_20150317_000167	$Como o Hogmas obteve ou forjou essa arma não importa. Estamos mais preocupados em forjar e usar por nós mesmos.
 ITEM_20150317_000168	$Cheminis Bastard Sword 
-ITEM_20150317_000169	{memo X}$In the wake of the Great Plant Cataclysm, the Winterspoon family disclosed the crafting recipe for this weapon to all alchemists. 
+ITEM_20150317_000169	{memo X}$No despertar do Great Plant Cataclysm, a família Winterspoon divulgou a receita de forja dessa arma para todos os alquimistas.
 ITEM_20150317_000170	$Primaluce 
-ITEM_20150317_000171	$Swordsmen seeking raw power in a weapon frequently choose this sword as their first magic sword. 
+ITEM_20150317_000171	$Espadachins procurando poder bruto em uma arma frequentemente escolhem essa espada como sua primeira espada mágica.
 ITEM_20150317_000172	$Kindzal 
-ITEM_20150317_000173	$Those who like to temper their weapons craft this sword for their own use. 
+ITEM_20150317_000173	$Aqueles que gostam de um tempero extra em suas armas forjaram esta espada para seu uso próprio.
 ITEM_20150317_000174	$Imperni Two-Handed Sword 
-ITEM_20150317_000175	$If you got this sword through the black market, it is evidence that you have obtained a certain level of reliability. 
+ITEM_20150317_000175	$Se você conseguiu essa espada pelo mercado negro, é a evidência que obteve um certo nível de confiabilidade.
 ITEM_20150317_000176	$Prieblanda 
-ITEM_20150317_000177	$This sword shares the same inventor with the 'Primaluce' sword. 
+ITEM_20150317_000177	$Essa espada compartilha o mesmo inventor da espada de 'Primaluce'.
 ITEM_20150317_000178	$Lapis Katzbalger 
-ITEM_20150317_000179	$The enhancement of Katzbalger has been developed less than 100 years ago. Thus the crafting recipe for this weapon is unrelated to Ruklys. 
+ITEM_20150317_000179	$O encantamento de Katzbalger tem sido desenvolvido a menos de 100 anos. Além disso, a composição para forja desta arma não tem relações com os Ruklys.
 ITEM_20150317_000180	$Smith Two-Handed Sword 
-ITEM_20150317_000181	{memo X}$Since Medis Diena, fewer people have been concerned about the instability of magic weapons. 
+ITEM_20150317_000181	{memo X}$Desde Medis Diena, poucas pessoas tem se preocupado com a instabilidade de armas mágicas.
 ITEM_20150317_000182	$Klavis Two-Handed Sword 
-ITEM_20150317_000183	$This sword can be a trustworthy extension of both your hands. 
+ITEM_20150317_000183	$Essa espada pode ser uma extensão confiável de suas mãos.
 ITEM_20150317_000184	$Thresh Two-Handed Sword 
 ITEM_20150317_000185	$Sestas Two-Handed Sword 
 ITEM_20150317_000186	$Dratt Two-Handed Sword 
@@ -188,53 +188,53 @@ ITEM_20150317_000187	$Aston Two-Handed Sword
 ITEM_20150317_000188	{memo X}$Devi Two-Handed Sword 
 ITEM_20150317_000189	{memo X}$Prima Two-Handed Sword 
 ITEM_20150317_000190	$Flamini 
-ITEM_20150317_000191	$A good sword that has long been regarded as a necessity when facing demons. 
+ITEM_20150317_000191	$Uma espada que tem sido considerado como necessária na luta contra demônios.
 ITEM_20150317_000192	$Wizard Slayer 
-ITEM_20150317_000193	$Novice Wizards often pay no mind to this particular weapon. However, a seasoned one knows to steer away from its unseen power. 
+ITEM_20150317_000193	$É frequente novos magos pagarem inimaginaveis por essa arma em particular. Mesmo assim, perioticamente alguém procura evitar seu poder não reconhecido.
 ITEM_20150317_000194	$Two-Handed Sword [Strike] 
-ITEM_20150317_000195	$Like a flying dagger thrown in the darkest hours of the night, Naktis deals an unforeseen blow to its target. 
-ITEM_20150317_000196	$Luciduce 
-ITEM_20150317_000197	{memo X}$Although some people dismiss this weapon as a 'tree cutting axe', its actual users will tell you that the Great Plant Cataclysm would have resulted in far worse losses without it. 
+ITEM_20150317_000195	$Como facas arremeçadas na hora mais silenciosa da noite, Naktis cometeu um golpe imprevisto por seu alvo.
+ITEM_20150317_000196	$Luciduce
+ITEM_20150317_000197	{memo X}$Apesar de algumas pessoas dispensar essa arma para lenhar árvores, seus usuários atuais vão lhe dizer que o Grand Plant Cataclysm teria muito mais perdas sem ela.
 ITEM_20150317_000198	$Hell and Heaven 
-ITEM_20150317_000199	$There's a saying that claims that 'offense is the best defense.' Prove it with this weapon. 
+ITEM_20150317_000199	$Tem um dito popular que clama que 'atacar é a melhor defesa'. Prove isso com esta arma.
 ITEM_20150317_000200	$Deathweaver Tooth 
-ITEM_20150317_000201	{memo X}$The Deathweaver's tooth is not actually used to craft this weapon. 
+ITEM_20150317_000201	{memo X}$Dente de Deathweaver não é atualmente usado para forjar essa arma.
 ITEM_20150317_000202	$Chapparition Two-Handed Sword 
-ITEM_20150317_000203	{memo X}$Great power can sometimes be found from the intangible. Sometimes the volumeless can overpower the heavy.  
+ITEM_20150317_000203	{memo X}$Grandes poderes podem ser encontrados no intangível. Ás vezes a menor volumosidade pode superar a pesado.  
 ITEM_20150317_000204	$Nulis 
-ITEM_20150317_000205	$Lends great power against beings who do not belong to the realms of night and day. 
+ITEM_20150317_000205	$Concede grande poder contra existências que não pertencem aos reinos da noite e do dia.
 ITEM_20150317_000206	$Gravity 
-ITEM_20150317_000207	$Gravity cannot be avoided by anyone or anything. But if one adapts to it, no one can underestimate its power. 
+ITEM_20150317_000207	$Gravidade não pode ser evitada por ninguém ou por nada. Mas se algum se adaptar á ela, ninguém poderá subestimar seu poder.
 ITEM_20150317_000208	{memo X}$Crude Short Rod 
 ITEM_20150317_000209	$Rod [Strike] 
-ITEM_20150317_000210	$A rod that all students of magic will use. 
+ITEM_20150317_000210	$Um cajado que todos os estudantes de mágica usaram.
 ITEM_20150317_000211	$Short Rod 
-ITEM_20150317_000212	$Magicians that graduate from their apprenticeship often switch to this weapon. 
+ITEM_20150317_000212	$Mágicos que graduarem de seu aprendizado frequentemente mudam para essa arma.
 ITEM_20150317_000213	{memo X}$Low Long Rod 
-ITEM_20150317_000214	$The decorations found in a mage's equipment are added for function, not only for appearance. 
+ITEM_20150317_000214	$Os decorativos vistos nos equipamentos dos magos são adicionados por função, não apenas por aparência.
 ITEM_20150317_000215	{memo X}$Low Cane Rover 
-ITEM_20150317_000216	$When a rod is painstakingly carved by a famous wizard, it is bound to contain mystical power. 
+ITEM_20150317_000216	$Quando um cajado é cravada por um feiticeiro famoso, essa é vinculada em conter poderes místicos.
 ITEM_20150317_000217	$Cane 
-ITEM_20150317_000218	$You can customize this rod further if you can supply the materials. 
+ITEM_20150317_000218	$Você pode customizar esse cajado logo se puder suprir os materiais.
 ITEM_20150317_000219	$Crook 
-ITEM_20150317_000220	$Legends say that evil wizards were the first to start using this weapon. 
+ITEM_20150317_000220	$Lendas dizem que feiticeiros malígnos foram os primeiros a começarem a usar esta arma.
 ITEM_20150317_000221	$Pewter Rod 
-ITEM_20150317_000222	$It was once a popular weapon among ambitious young wizards. 
+ITEM_20150317_000222	$Esta arma foi uma vez popular entre os jovens feiticeiros.
 ITEM_20150317_000223	$Owl Rod 
-ITEM_20150317_000224	$The decoration is popular among experienced wizards. 
+ITEM_20150317_000224	$A decoração é popular entre feiticeiros experientes.
 ITEM_20150317_000225	$Rune Rod 
-ITEM_20150317_000226	$A magical rune is used to amplify the power of the rod. 
+ITEM_20150317_000226	$Uma runa mágica é usada para amplificar o poder do cajado.
 ITEM_20150317_000227	$Crystal Rod 
-ITEM_20150317_000228	$A precise fitting of the jewel to the shaft is required to craft this rod. 
+ITEM_20150317_000228	$O preciso encaixe da jóia no cabo é requirido para montar esse cajado.
 ITEM_20150317_000229	{memo X}$Crude Pewter Rod 
 ITEM_20150317_000230	{memo X}$Crude Owl Rod 
 ITEM_20150317_000231	$Soldier's Short Rod 
-ITEM_20150317_000232	{memo X}$This rod was given to magicians who joined the army. Though the procedure has been abolished since the Great Plant Cataclysm, an abundant stock still remains. 
+ITEM_20150317_000232	{memo X}$Esse cajado foi entregue aos magos que se juntaram o exército. Todavia o procedimento tem sido abolido desde o Great Plant Cataclysm, ainda resta um estoque abundante.
 ITEM_20150317_000233	$Chieftain's Long Rod 
-ITEM_20150317_000234	$The shape of this rod was popular in the past. Although old-fashioned, the rod performs rather decently. 
+ITEM_20150317_000234	$O formato desse cajado foi popular no passado. Apesar de antiquado, o cajado tem uma perfomance preferencialmente decente.
 ITEM_20150317_000235	{memo X}$Crude Cane Rover 
 ITEM_20150317_000236	$Battle Rod 
-ITEM_20150317_000237	$Besides the assistance in casting magic, this rod was also designed for physical combat. 
+ITEM_20150317_000237	$Apesar da assistência em invocar mágica, esse cajado foi também designado para combates físicos.
 ITEM_20150317_000238	{memo X}$Heavy Short Rod 
 ITEM_20150317_000239	$Long Rod 
 ITEM_20150317_000240	{memo X}$Heavy Long Rod 
@@ -256,29 +256,29 @@ ITEM_20150317_000255	$Meteor Rod
 ITEM_20150317_000256	$Ring Rod 
 ITEM_20150317_000257	$Servant Rod 
 ITEM_20150317_000258	$Panto Rod 
-ITEM_20150317_000259	{memo X}$Wizards have been discovering new facts from monsters emerging from the Great Plant Cataclysm and applying them to varying situations. 
+ITEM_20150317_000259	{memo X}$Feiticeiros tem descoberto novos fatos de monstros emergidos do Great Plant Cataclysm e aplicando-os em várias situações.
 ITEM_20150317_000260	$Ice Rod 
-ITEM_20150317_000261	$Rumor says that every time the crafting recipe for this rod is sold, part of the money goes to the Cryomancer Master. 
+ITEM_20150317_000261	$Boatos dizem que toda vez que a receita desse cajado é vendido, parte dos ganhos vão para o Cryomancer Master.
 ITEM_20150317_000262	$Fire Rod 
-ITEM_20150317_000263	$Only the Pyromancer Master knows the method of infusing the power of the Goddess Gabija into these rods. 
+ITEM_20150317_000263	$Apenas um Pyromancer Master sabe o método de infusão do poder da Goddess Gabija para dentro dos cajados.
 ITEM_20150317_000264	$Vasia Rod 
-ITEM_20150317_000265	$Although priests frown upon the manipulation of spirits during its manufacturing, wizards ignore this objection. 
+ITEM_20150317_000265	$Embora padres se preocupem sobre a manipulação de espíritos durante sua manufaturação, feiticeiros ignoram essa objeção.
 ITEM_20150317_000266	$Magic Rod 
-ITEM_20150317_000267	$A simple rod for enhancing magic, easily craftable by beginner mages. 
+ITEM_20150317_000267	$Um simples cajado para reforço mágico, facilmente produzível por magos iniciantes.
 ITEM_20150317_000268	$Grinas Rod 
-ITEM_20150317_000269	{memo X}$The increase in Demons after the Great Plant Cataclysm increased the price of this already-expensive rod. 
+ITEM_20150317_000269	{memo X}$O acrésimo de Demons depois do Great Plant Cataclysm aumentou o preço desse antes-caro cajado.
 ITEM_20150317_000270	$Cheminis Rod 
-ITEM_20150317_000271	$Despite the similarity in the name with another weapon, this weapon has no direct relation to the Winterspoon family. 
+ITEM_20150317_000271	$Apesar do nome semelhante com outra arma, esta arma não tem relação direta com a família Winterspoon.
 ITEM_20150317_000272	$Arch Rod 
-ITEM_20150317_000273	$A weapon that fills the role of a stepping stone to advanced wizardry for aspiring wizards. Once the wizard achieves his objective for higher learning, this weapon is replaced by another. 
+ITEM_20150317_000273	$Uma arma que preenche o papel de um trampolim para feiticeiros avançados para feiticeiros aspirantes. Uma vez um feiticeiro conquistou seus objetivos para maior aprendizado, essa arma é substituida por outra.
 ITEM_20150317_000274	$Imperni Rod 
-ITEM_20150317_000275	$It is popular among wizards who like to stand out. 
+ITEM_20150317_000275	$Esse é popular entre feiticeiros que gostam de se destacar. 
 ITEM_20150317_000276	$Aras' Long Rod 
-ITEM_20150317_000277	$It is often given as a small gift amongst wizards thanks to its affordable price. 
+ITEM_20150317_000277	$É frequentemente dado como um pequeno presente entre os feiticeiros graças ao seu preço acessível.
 ITEM_20150317_000278	$Smith Rod 
-ITEM_20150317_000279	{memo X}$The unexpected features of this weapon are independent of whoever uses it. 
+ITEM_20150317_000279	{memo X}$As inesperadas caracteristicas dessa arma são independentes de quem a usa.
 ITEM_20150317_000280	$Klavis Rod 
-ITEM_20150317_000281	$You may be the first wizard in history to ever use this weapon. 
+ITEM_20150317_000281	$Você pode ser o primeiro feiticeiro na história a usar esta arma.
 ITEM_20150317_000282	$Dio Rod 
 ITEM_20150317_000283	$Thresh Rod 
 ITEM_20150317_000284	$Sestas Rod 
@@ -287,20 +287,20 @@ ITEM_20150317_000286	$Aston Rod
 ITEM_20150317_000287	{memo X}$Devi Rod 
 ITEM_20150317_000288	{memo X}$Prima Rod 
 ITEM_20150317_000289	$Temere 
-ITEM_20150317_000290	$This rod's nickname is 'The Staff of Patience.' Legends say that Agailla Flurry, the greatest wizard in history, devised this rod to train her apprentices. 
+ITEM_20150317_000290	$O apelido desse cajado é 'The Staff of Patience'. Rez a lenda que Agailla Flurry, o maior feiticeiro da história, idelizou esse cajado para treinar seu aprendizes.
 ITEM_20150317_000291	$Ignition 
-ITEM_20150317_000292	$Though the Pyromancer Master has been researching a way to mitigate the unstable drawbacks of this staff, there have been no developments so far. 
+ITEM_20150317_000292	$Embora o Pyromancer Master estivesse pesquisando um meio de suavizar os inconvenientes instáveis deste bastão, não tem havido desenvolvimento até agora.
 ITEM_20150317_000293	$Secretum 
-ITEM_20150317_000294	$A weapon made for and only for wizards. Thus, wizards usually ignore the flaws of this staff. 
+ITEM_20150317_000294	$Uma arma feita para e somente para feiticeiros. Assim, feiticeiros geralmente ignoram as falhas desse bastão.
 ITEM_20150317_000295	$Deathweaver Rod 
-ITEM_20150317_000296	{memo X}$A rod containing the power of the Deathweaver. 
+ITEM_20150317_000296	{memo X}$Um cajado contendo o poder do Deathweaver.
 ITEM_20150317_000297	$Chapparition Rod 
 ITEM_20150317_000298	$Zaima 
-ITEM_20150317_000299	$Rumors say that the high price of this rod's recipe is due to the Cryomancer Master's insistence. 
+ITEM_20150317_000299	$Rumores dizem que o alto preço da receita desse cajado é devida a insistência do Cryomancer Master.
 ITEM_20150317_000300	$Epos 
-ITEM_20150317_000301	$A rod that was crafted long time ago using the best available magic knowledge at the time. As a result it is impossible to add to the rod, even with the current advancements in magic. 
+ITEM_20150317_000301	$Um cajado que foi produzido a muito tempo atrás usando a melhor conhecimento mágico disponível da época. Já que o resultado é impossível de se adicionar ao cajado, mesmo com os avanços atuais em mágica.
 ITEM_20150317_000302	$Twinkle Rod 
-ITEM_20150317_000303	$A twinkling star is always visible. 
+ITEM_20150317_000303	$Uma estrela cintilante é sempre visível.
 ITEM_20150317_000304	$Empty_weapon_THBow 
 ITEM_20150317_000305	{memo X}$Crude Light Bow 
 ITEM_20150317_000306	$Bow [Pierce] 
