@@ -20,7 +20,7 @@ ITEM_20150317_000019	$Devido a sua facilidade de produção manual, essa espada 
 ITEM_20150317_000020	$Cinquedea 
 ITEM_20150317_000021	$Recomendada á aqueles que desejem uma espada de peso e maior força.
 ITEM_20150317_000022	$Sabre 
-ITEM_20150317_000023	$Arma primária das Cavalarias, aprimorada para lacerar. A guarda no estribo ajuda a protejer a mão do usuário.
+ITEM_20150317_000023	$Arma primária das Cavalry, aprimorada para lacerar. A guarda no estribo ajuda a protejer a mão do usuário.
 ITEM_20150317_000024	$Shamshir 
 ITEM_20150317_000025	$Seu largo gume em meia-lua permite por um laceramento poderoso.
 ITEM_20150317_000026	$Scimitar 
@@ -229,7 +229,7 @@ ITEM_20150317_000228	$O preciso encaixe da jóia no cabo é requirido para monta
 ITEM_20150317_000229	{memo X}$Crude Pewter Rod 
 ITEM_20150317_000230	{memo X}$Crude Owl Rod 
 ITEM_20150317_000231	$Soldier's Short Rod 
-ITEM_20150317_000232	{memo X}$Esse cajado foi entregue aos magos que se juntaram o exército. Todavia o procedimento tem sido abolido desde o Great Plant Cataclysm, ainda resta um estoque abundante.
+ITEM_20150317_000232	{memo X}$Esse cajado foi entregue aos magos que se juntaram o Army. Todavia o procedimento tem sido abolido desde o Great Plant Cataclysm, ainda resta um estoque abundante.
 ITEM_20150317_000233	$Chieftain's Long Rod 
 ITEM_20150317_000234	$O formato desse cajado foi popular no passado. Apesar de antiquado, o cajado tem uma perfomance preferencialmente decente.
 ITEM_20150317_000235	{memo X}$Crude Cane Rover 
@@ -304,34 +304,34 @@ ITEM_20150317_000303	$Uma estrela cintilante é sempre visível.
 ITEM_20150317_000304	$Empty_weapon_THBow 
 ITEM_20150317_000305	{memo X}$Crude Light Bow 
 ITEM_20150317_000306	$Bow [Pierce] 
-ITEM_20150317_000307	$A simple weapon that can even be crafted at home. 
+ITEM_20150317_000307	$Uma simples arma que pode ser produzida até mesmo em casa.
 ITEM_20150317_000308	$Light Bow 
-ITEM_20150317_000309	$A bow widely crafted and used by people across the kingdom and its territories. 
+ITEM_20150317_000309	$Um arco largamente produzido e usado por pessoas acerca do reino e seus territórios.
 ITEM_20150317_000310	{memo X}$Low Short Bow 
-ITEM_20150317_000311	$It's a bow for beginners, though some proficient archers prefer to keep using it. 
+ITEM_20150317_000311	$Um arco para novatos, apesar de alguns arqueiros competentes preferirem continuar usandô-o.
 ITEM_20150317_000312	{memo X}$Crude Longbow 
-ITEM_20150317_000313	$A small distance can sometimes be the deciding factor between life and death. This bow is a good choice if you want a longer reach. 
+ITEM_20150317_000313	$Uma distância mais curta pode as vezes ser o fator decisivo entra a vida e a morte. Esse arco é uma boa escolha se você quer um longo alcance.
 ITEM_20150317_000314	$Composite Bow 
-ITEM_20150317_000315	$A bow with improved flexibility through the application of various materials. 
+ITEM_20150317_000315	$Um arco com flexibilidade aprimorada devida a aplicação de vários materiais.
 ITEM_20150317_000316	$Self Bow 
-ITEM_20150317_000317	$It symbolizes the stalwart resolve of an unyielding archer. 
+ITEM_20150317_000317	$Simboliza a resolução leal de um arqueiro inflexível.
 ITEM_20150317_000318	$Rokas Bow 
-ITEM_20150317_000319	$It is presumably named after the place where its inventor came from. 
+ITEM_20150317_000319	$É presumívelmente nomeada com o local de onde seu inventor veio.
 ITEM_20150317_000320	$Gorithos 
-ITEM_20150317_000321	$A bow preferred by the Cavalry. 
+ITEM_20150317_000321	$Um arco preferido pela Cavalry.
 ITEM_20150317_000322	$Gulail
-ITEM_20150317_000323	$The first ever recorded case of applying magic in the bowcrafting process. Since then it has found its own market. 
+ITEM_20150317_000323	$O primeiro caso já registrado de mágica aplicada na produção de arcos. Desde então, ele se encontra no mercado.
 ITEM_20150317_000324	$Kaman 
-ITEM_20150317_000325	$A bow modified for more power by archers confident in their arm strength. 
+ITEM_20150317_000325	$Um arco modificado para maior poder pelos arqueiros confiantes na força de seus braços.
 ITEM_20150317_000326	{memo X}$Crude Rokas Bow 
 ITEM_20150317_000327	{memo X}$Crude Gorithos 
 ITEM_20150317_000328	$Soldier's Light Bow 
-ITEM_20150317_000329	$This bow has been crafted to meet the minimum requirements of the Army. 
+ITEM_20150317_000329	$Esse arco tem sido produzido para atingir os requisitos mínimos do Army.
 ITEM_20150317_000330	$Mayor's Short Bow 
-ITEM_20150317_000331	$It shows signs of the effort put into unstringing and restringing the bow every day. Despite its age, the bow is in good condition. 
+ITEM_20150317_000331	$Ele apresenta marcas do esforço colocado de amarrar e desamarrar o arco a cada dia. Apesar de sua idade, o arco está em boas condições.
 ITEM_20150317_000332	{memo X}$Crude Long Bow 
 ITEM_20150317_000333	$Gendawa 
-ITEM_20150317_000334	$This bow is the best among those crafted without using magic in the process. 
+ITEM_20150317_000334	$Este arco é o melhor entre aqueles produzidos sem magia no processo.
 ITEM_20150317_000335	{memo X}$Heavy Light Bow 
 ITEM_20150317_000336	$Short Bow 
 ITEM_20150317_000337	{memo X}$Heavy Short Bow 
@@ -353,34 +353,34 @@ ITEM_20150317_000352	$Wooden Compound Bow
 ITEM_20150317_000353	{memo X}$Tag Bow 
 ITEM_20150317_000354	$Rogue Bow 
 ITEM_20150317_000355	$Seeker 
-ITEM_20150317_000356	{memo X}$This bow, popular among hunters, became even more widespread after the Great Plant Cataclysm. 
+ITEM_20150317_000356	{memo X}$Este arco, popular entre os caçadores, tornou-se ainda mais difundido depois da Great Plant Cataclysm.
 ITEM_20150317_000357	$Iron Bow 
-ITEM_20150317_000358	$This bow has great precision and can frequently cause unexpected damage to the foe. 
+ITEM_20150317_000358	$Este arco tem grande precisão e freqüêntemente causa danos inesperados ao inimigo.
 ITEM_20150317_000359	$Hawk Bow 
-ITEM_20150317_000360	{memo X}$A Self Bow made with random bones will sometimes not have synergy with gold. 
+ITEM_20150317_000360	{memo X}$Um Self Bow feito de diferentes ossos as vezes não terá sinergia com ouro.
 ITEM_20150317_000361	$Cheminis Bow 
-ITEM_20150317_000362	$It was named for its effect of increasing the agility of the user. 
+ITEM_20150317_000362	$Foi nomeado por seu efeito de aumentar a agilidade de seu usuário.
 ITEM_20150317_000363	$Hunting Bow 
-ITEM_20150317_000364	$The application of Alchemy in bowcrafting remained theoretical until circumstances made it a trend in recent production. 
+ITEM_20150317_000364	$A aplicação da Alchemy na manufaturação de um arco manteve-se teórica até que circuntâncias tornaram-a tendência na recente produção.
 ITEM_20150317_000365	$Maker Bow 
-ITEM_20150317_000366	$In the past, only wealthy hunters bought this bow. With the dire events in recent history, however, anyone who can afford to is purchasing or crafting it. 
+ITEM_20150317_000366	$No passado, apenas caçadores mais ricos compraram esse arco.  Com os terríveis acontecimentos recentes na história, de um jeito ou de outro, qualquer pode pode obter-lo seja comprando ou produzindo.
 ITEM_20150317_000367	$Savage Bow 
-ITEM_20150317_000368	{memo X}$Due to increase in demand for high quality bows since the Great Plant Cataclysm, this bow is being crafted quite frequently. 
+ITEM_20150317_000368	{memo X}$Devido o acréscimo na demanda por arcos de alta qualidade desdo Great Plant Cataclysm, esse arco tem sido produzido com certa freqüência.
 ITEM_20150317_000369	$Snake Bow 
-ITEM_20150317_000370	$This bow is a good choice regardless of one's muscle strength. This is because if the user has strong arms, he can shoot with more power and if he doesn't, the bow compensates for it. 
+ITEM_20150317_000370	$Este arco é uma boa escolha independentemente da força muscular. Isso porque, se o usuário tem braços fortes, ele pode disparar com mais poder e se não o fizer, o arco compensa isso.
 ITEM_20150317_000371	$Imperni Bow 
-ITEM_20150317_000372	$Like the name suggests, this bow strikes with poisonous attacks. 
+ITEM_20150317_000372	$Como o nome sugere, esse arco inflinge disparos com veneno.
 ITEM_20150317_000373	$Lethena Bow 
-ITEM_20150317_000374	$One can feel the sensation of hunting a large monster with this bow thanks to its solid weight. 
+ITEM_20150317_000374	$Pode-se sentir a sensação de caçar um grande monstro com esse arco graças ao seu sólido peso.
 ITEM_20150317_000375	$Strong Bow 
-ITEM_20150317_000376	$Tricky to manufacture, but worth the trouble. 
+ITEM_20150317_000376	$Nada prático de ser produzido, mas compensa o trabalho.
 ITEM_20150317_000377	$Aras' Short Bow 
-ITEM_20150317_000378	$Usually purchased by new users of magic bows. 
+ITEM_20150317_000378	$Normalmente comprado por novos usuários de arcos mágicos.
 ITEM_20150317_000379	$Pulley Bow 
 ITEM_20150317_000380	$Smith Bow 
-ITEM_20150317_000381	{memo X}$If there are no other bows available for purchase, buy this and hope for the best. 
+ITEM_20150317_000381	{memo X}$Se não houver outros arcos disponíveis para adquirir, compre este e espere pelo melhor.
 ITEM_20150317_000382	$Klavis Bow 
-ITEM_20150317_000383	$Apart from being a magic bow it is generally considered to be mediocre, but a user might make exceptional use of it. 
+ITEM_20150317_000383	$Apesar de ser um arco mágico, é geralmente considerado em ser medíocre, mas o usuário poderá fazer um uso excepcional dele.
 ITEM_20150317_000384	$Dio Bow 
 ITEM_20150317_000385	$Thresh Bow 
 ITEM_20150317_000386	$Sestas Bow 
@@ -389,43 +389,43 @@ ITEM_20150317_000388	$Aston Bow
 ITEM_20150317_000389	{memo X}$Devi Bow 
 ITEM_20150317_000390	{memo X}$Prima Bow 
 ITEM_20150317_000391	$Wildling Bane 
-ITEM_20150317_000392	{memo X}$Prior to the Great Plant Cataclysm, hunters rarely used this bow. It might sound strange, but the bow would cause excessive damage to the prey. 
+ITEM_20150317_000392	{memo X}$Prévio ao Great Plant Cataclysm, caçadores raramente usaram este arco. Pode soar estranho, mas o arco causaria excessivo dano á presa.
 ITEM_20150317_000393	$Equalizer 
-ITEM_20150317_000394	$There are proud archers who don't want any variables affecting their archery skill outside of their own abilities. This bow is a perfect match for them. 
+ITEM_20150317_000394	$Tiveram arqueiros orgulhos que não queriam nenhuma variável afetando sua perícia com o arco, fora suas habilidaes. Esse arco é o par perfeito para eles.
 ITEM_20150317_000395	$Heart Seeker 
-ITEM_20150317_000396	$For an unknown reason the spell bound to this bow has become a curse to both the foe and the user. Regardless, the bow is still used by archers for its merits. 
+ITEM_20150317_000396	$Por uma razão desconhecida, o feitiço vinculado a este arco se tornou uma maldição para o inimigo e o usuário. Independentemente disso, o arco ainda é usado por arqueiros para os seus méritos.
 ITEM_20150317_000397	$Viper 
-ITEM_20150317_000398	$This poison-imbued bow is so toxic that it afflicts its user as well. 
+ITEM_20150317_000398	$Esse arco com veneno atribuido é tão tóxico que afeta seu manusiador também.
 ITEM_20150317_000399	$Deathweaver Bow 
-ITEM_20150317_000400	{memo X}$This bow will send your enemies to their deaths. 
+ITEM_20150317_000400	{memo X}$Esse arco vai mandar seus adversários ás suas mortes.
 ITEM_20150317_000401	$Chapparition Bow 
-ITEM_20150317_000402	{memo X}$The engravings say: 'Straighten your back and broaden your shoulders; pull the bowstring and push the bow as you shoot.' 
+ITEM_20150317_000402	{memo X}$A gravura diz: "Endireite suas costas e alinhe seus ombros; puxe a corda e empurre o arco quando atirar."
 ITEM_20150317_000403	$Blood Gain 
-ITEM_20150317_000404	$This bow was created by Lydia Schaffen. She frequently used this bow throughout her lifetime but intentionally withheld the crafting method from 'The Tower of the Stars' and 'Schaffenstar', two entities founded by Lydia herself. 
+ITEM_20150317_000404	$Esse arco foi criado por Lydia Schaffen. Ela usava esse arco ao longe de sua vida, mas intencionalmente reteve o método de produção do 'The Tower of the Stars' e do 'Schaffenstar', duas entidades fundadas pela própria Lydia.
 ITEM_20150317_000405	$Tempest Shooter 
-ITEM_20150317_000406	{memo X}$A new bow designed and developed through a joint effort of master bowcrafters. It was conceived with the hope of overcoming the Great Plant Cataclysm. 
+ITEM_20150317_000406	{memo X}$Um novo arco projetado e desenvolvido em parceria com o mestre produtor de arcos. Foi concebido com esperança para sobrepor o Great Plant Cataclysm.
 ITEM_20150317_000407	$Empty_weapon_Bow 
 ITEM_20150317_000408	{memo X}$Low Light Crossbow 
 ITEM_20150317_000409	$Crossbow [Pierce] 
-ITEM_20150317_000410	$Useful when having a free hand is more important than having more attack power. 
+ITEM_20150317_000410	$Útil quando ter uma mão livre é mais importante que ter mais poder de ataque.
 ITEM_20150317_000411	{memo X}$Low Crossbow 
-ITEM_20150317_000412	$Modern crossbows use many different materials, mostly monster parts. 
+ITEM_20150317_000412	$Bestas modernas usam diferentes materiais, a maioria são partes de monstros.
 ITEM_20150317_000413	$Dokyu 
-ITEM_20150317_000414	$A weapon that is easy to reload. 
+ITEM_20150317_000414	$Uma arma que é fácil de recarregar.
 ITEM_20150317_000415	$Quarrel Bow 
-ITEM_20150317_000416	$The Quarrel Shooter Master uses this to teach beginners. 
+ITEM_20150317_000416	$O Quarrel Shooter Master usa isso para ensinar os novatos.
 ITEM_20150317_000417	$Oak Crossbow 
-ITEM_20150317_000418	{memo X}$Although craftable wood is hard to find due to the Great Plant Cataclysm, this weapon is not hard to make. 
+ITEM_20150317_000418	{memo X}$Apesar da madeira ser difícil de encontrar devido o Great Plant Cataclysm, essa arma não é difícil de se fazer.
 ITEM_20150317_000419	$Seal Crossbow 
-ITEM_20150317_000420	$Because monster bones are sometimes cursed, a seal is attached to this weapon. 
+ITEM_20150317_000420	$Por causa de osso de monstros serem algumas vezes amaldiçoados, um selo é acoplado nesta arma.
 ITEM_20150317_000421	$Catapult 
-ITEM_20150317_000422	$There is a long history of research on adapting siege weaponry for single-person use. This weapon is the culmination of that research. 
+ITEM_20150317_000422	$Tem uma história longa de uma pesquisa em adaptar armamento de cerco para uso singular. Essa arma é a culminação dessa pesquisa.
 ITEM_20150317_000423	$Cranequin 
-ITEM_20150317_000424	$The mechanism assists beginners in using it, but experienced users will benefit from the added power. 
+ITEM_20150317_000424	$O mecanismo ajuda novatos em usar-la, mas usuários experientes vão beneficiar do poder adicional.
 ITEM_20150317_000425	{memo X}$Crude Oak Crossbow 
 ITEM_20150317_000426	{memo X}$Crude Seal Crossbow 
 ITEM_20150317_000427	$Sniper Crossbow 
-ITEM_20150317_000428	$A powerful crossbow, infamous for being used by the Assassin Evoniphon. 
+ITEM_20150317_000428	$Uma poderosa besta, infame por ter sido usada pelo Assassin Evoniphon.
 ITEM_20150317_000429	$Light Crossbow 
 ITEM_20150317_000430	{memo X}$Heavy Light Crossbow 
 ITEM_20150317_000431	$Crossbow 
@@ -444,27 +444,27 @@ ITEM_20150317_000443	$Black Tip Bow
 ITEM_20150317_000444	$Spiked Crossbow 
 ITEM_20150317_000445	$Windlass
 ITEM_20150317_000446	{memo X}$Heavy Crossbow 
-ITEM_20150317_000447	$Though slightly heavy, the magics infused into the bow itself offset this downside. 
+ITEM_20150317_000447	$Apesar de levemente pesada, a mágica imbutida nesse arco por si compensa essa desvantagem.
 ITEM_20150317_000448	$Wide Crossbow 
-ITEM_20150317_000449	$For those with good aim, this is a good crossbow to deal fatal blows to targets. 
+ITEM_20150317_000449	$Para aqueles com boa mira, esse é um bom arco para causar golpes letais em alvos.
 ITEM_20150317_000450	$Grand Cross 
-ITEM_20150317_000451	$A very popular crossbow among Archers because of its high quality and lack of drawbacks. 
+ITEM_20150317_000451	$Uma besta muito popular entre os Archers por causa de sua alta qualidade e falta de inconvenientes.
 ITEM_20150317_000452	$Cheminis Crossbow 
-ITEM_20150317_000453	{memo X}$Weapons based on Alchemy are in great demand since the Great Plant Cataclysm. 
+ITEM_20150317_000453	{memo X}$Armas baseada na Alquímia estão em ótima demanda desdo Great Plant Cataclysm.
 ITEM_20150317_000454	$Medina Crossbow 
-ITEM_20150317_000455	{memo X}$This weapon is specialized in taking down well-equipped enemies. 
+ITEM_20150317_000455	{memo X}$Essa arma é especializada em derrubar adversário bem equipados.
 ITEM_20150317_000456	$Regina Crossbow 
-ITEM_20150317_000457	$Not good enough to be considered the "Lord of Crossbows," but the title of "Queen" seems fair. 
+ITEM_20150317_000457	$Não tão boa para ser considerada a 'Lord of Crossbows', mas o título de "Queen" parece justo.
 ITEM_20150317_000458	$Chaser 
-ITEM_20150317_000459	$Frequently used by archers operating in areas with poor visibility or strong winds. 
+ITEM_20150317_000459	$Frequentemente usado por arqueiros operando em áreas de baixa visibilidade e/ou ventos fortes.
 ITEM_20150317_000460	$Imperni Crossbow 
-ITEM_20150317_000461	$Rumors say that black market weapons are intentionally made to be expensive to maintain. 
+ITEM_20150317_000461	$Rumores dizem que o mercado negro de armas são intencionalmente feitos para serem caros de manter.
 ITEM_20150317_000462	$Grave Crossbow 
-ITEM_20150317_000463	$This weapon is recommended if you intend to permanently put the target to sleep. 
+ITEM_20150317_000463	$Essa arma é recomendada se pretende botar permanentemente o alvo para durmir.
 ITEM_20150317_000464	$Smith Crossbow 
-ITEM_20150317_000465	{memo X}$This weapon will only deal as much damage as you expect it to every time you pull the trigger. 
+ITEM_20150317_000465	{memo X}$Essa arma vai lidar com tanto dano quanto você espera, toda vez que puxar o gatilho.
 ITEM_20150317_000466	$Klavis Crossbow 
-ITEM_20150317_000467	$You could be the first person to draw out the true potential of this weapon. 
+ITEM_20150317_000467	$Você pode ser a primeira pessoa a expor o verdadeiro potencial desta arma.
 ITEM_20150317_000468	$Thresh Crossbow 
 ITEM_20150317_000469	$Sestas Crossbow 
 ITEM_20150317_000470	$Dratt Crossbow 
@@ -472,19 +472,19 @@ ITEM_20150317_000471	$Aston Crossbow
 ITEM_20150317_000472	{memo X}$Devi Crossbow 
 ITEM_20150317_000473	{memo X}$Prima Crossbow 
 ITEM_20150317_000474	$Shooting Star 
-ITEM_20150317_000475	$Previously only archers who completed the training in 'The Tower of the Stars' could use this weapon. 
+ITEM_20150317_000475	$Anteriormente apenas arqueiros que completaram o treinamento na 'The Tower of the Stars' pôde usar esta arma.
 ITEM_20150317_000476	$Kateen Blaster
-ITEM_20150317_000477	{memo X}$The Ranger Master developed this weapon based on research data on the monsters in the Kateen Forest after the Great Plant Cataclysm. However, he recommends that no one uses it. 
+ITEM_20150317_000477	{memo X}$O Ranger Master desenvolveu essa arma baseada em dados de monstros de Kateen Forest depois do Great Plant Cataclysm. Contudo, ele recomenda que ninguém a use.
 ITEM_20150317_000478	$Grajus 
-ITEM_20150317_000479	$Can large monsters be hunted using only a one-handed crossbow? This is the answer. 
+ITEM_20150317_000479	$Podem grandes monstros serem caçados usando uma besta de uma mão? Essa é a resposta.
 ITEM_20150317_000480	$Deathweaver Crossbow 
-ITEM_20150317_000481	{memo X}$This is not a Deathweaver's weapon. The original owner was probably a pitiful victim. 
+ITEM_20150317_000481	{memo X}$Essa não é a arma de Deathweaver. O proprietário original foi provavelmente uma lamentável vítima.
 ITEM_20150317_000482	$Chapparition Shooter 
-ITEM_20150317_000483	{memo X}$This weapon is preparation enough to give wild beasts a taste of pain. 
+ITEM_20150317_000483	{memo X}$Essa arma é preparação o bastante para dar a bestas selvagens o gosto da dor.
 ITEM_20150317_000484	$Isbality 
-ITEM_20150317_000485	$The greatest archer in history, Lydia Schaffen, did not hesitate in hunting down demons. It's difficult to obtain this weapon because Schaffenstar did not release the recipe to the public. 
+ITEM_20150317_000485	$A maior arqueira da história, Lydia Schaffen, não hesitou em caçar demônios. É difícil de obter essa arma por causa de Schaffen não liberou o projeto para o público. 
 ITEM_20150317_000486	$Morto 
-ITEM_20150317_000487	$This recipe was disclosed to the public after Evoniphon threw away his weapon while being chased by Fiona Ieva. However, many fell foolishly challenging monsters while only relying on this weapon. 
+ITEM_20150317_000487	$Esse projeto foi divulgado ao público depois que Evoniphon livrou-se de sua arma enquanto era perseguido por Fiona Ieva. Contudo, muitos cairam tolamente desafiando monstros enquanto seguravam nessa arma.
 ITEM_20150317_000488	$Empty_weapon_Mace 
 ITEM_20150317_000489	{memo X}$Crude Wooden Club 
 ITEM_20150317_000490	$One-Handed Blunt Weapon [Strike] 
