@@ -1454,7 +1454,7 @@ QUEST_20150323_001454	I believe that the evil will eventually fall and the Godde
 QUEST_20150323_001455	Anyway, I will go to the battlefield first, so please help the guards and my followers. {nl}I will see you at Nefritas Cliff.
 QUEST_20150323_001456	This isn't over yet. {nl}I'll be watching you from Kvailas Forest.
 QUEST_20150323_001457	Catacomb 1st Floor internal warp
-QUEST_20150323_001458	It needs to be purified more…
+QUEST_20150323_001458	Precisa ser purificada mais...
 QUEST_20150323_001459	Blurry Spirit of Catacomb 1st Floor
 QUEST_20150323_001460	{memo X}Something murky is lurking around…
 QUEST_20150323_001461	{memo X}Something once invisible is appearing…
@@ -1477,31 +1477,30 @@ QUEST_20150323_001477	Tree of Brothers Notice
 QUEST_20150323_001478	First Tree of the Brothers. {nl}Guard the Tree of Faith with the name of the Goddess.
 QUEST_20150323_001479	Second Tree of the Brothers. {nl}Purify the evil force with the power of the Goddess.
 QUEST_20150323_001480	Third Tree of the Brothers. {nl}Live a full life with the grace of the Goddess.
-QUEST_20150323_001481	{memo X}Spoiled already? Here, take this.
+QUEST_20150323_001481	{memo X}Estragado ja? Aqui, tome isto.
 QUEST_20150323_001482	Magic circle is shaking.
-QUEST_20150323_001483	Baron Allerno
-QUEST_20150323_001484	{memo X}Wait, I came to see if the device is working well, but isn't my territory quiet and great to live in? There aren't that many people though. 
-QUEST_20150323_001485	{memo X}I wonder when the explorers will return from the Closed Area…
-QUEST_20150323_001486	{memo X}It's just one thing that the old man wants.
+QUEST_20150323_001483	Barao Allerno
+QUEST_20150323_001484	{memo X}Wait, I came to see if the device is working well, but isn't my territory quiet and great to live in? There aren't that many people though.
+QUEST_20150323_001486	{memo X}E somente uma coisa o que o homem velho quer.
 QUEST_20150323_001487	{memo X}This machine takes too much crops. You can say it was kept because of my prestige and morality. 
-QUEST_20150323_001488	{memo X}Haven't you heard the saying that not even the king can save poverty? What do they expect me to do? 
-QUEST_20150323_001489	{memo X}I have a talented wizard for the deity. But now he's busy, so I can't bring him here. 
-QUEST_20150323_001490	{memo X}Hmm, Goddess? You mean the Goddess? 
-QUEST_20150323_001491	{memo X}I wonder if the tenant farmers know that it is all thanks to me that they can eat and live like this. 
+QUEST_20150323_001488	{memo X}Voce nao escutou o ditado que nem o rei pode salvar da miseria? Que que eles esperam que eu faca?
+QUEST_20150323_001489	{memo X}Eu tenho um talentoso feiticeiro para a divindade. Mas agora ele esta ocupado, entao nao posso traze-lo aqui.
+QUEST_20150323_001490	{memo X}Humm, deusa? Voce quer dizer a Deusa?
+QUEST_20150323_001491	{memo X}Me pergunto se os rendeiros sabem que e tudo gracas a mim que eles podem comer e viver desta forma.
 QUEST_20150323_001492	{memo X}Youngsters nowadays don't have enough spirit in them. {nl}When I was their age, people would volunteer to go into those mysterious places ahead of others! {nl}Now they won't do anything unless something is offered in return. They just don't have passion.
-QUEST_20150323_001493	{memo X}Everlasting thing… Everlasting beauty…
-QUEST_20150323_001494	{memo X}Something that looks like the head of a statue is buried. 
-QUEST_20150323_001495	{memo X}Better check out this liquor barrel.
-QUEST_20150323_001496	{memo X}Something that looks like the wing of a statue is buried. 
-QUEST_20150323_001497	Farmer
-QUEST_20150323_001498	{memo X}Okay, that'll be only 1,000 silver coins then.
-QUEST_20150323_001499	{memo X}Great! It's a deal!
+QUEST_20150323_001493	{memo X}Coisa eterna... Beleza eterna...
+QUEST_20150323_001494	{memo X}Algo que parece como a cabeca da estatua esta enterrado.
+QUEST_20150323_001495	{memo X}Melhor dar uma olhada neste barril de licor.
+QUEST_20150323_001496	{memo X}Algo que parece como a asa da estatua esta enterrado.
+QUEST_20150323_001497	Fazendeiro
+QUEST_20150323_001498	{memo X}Ok, isso sera somente 1.000 moedas de prata entao.
+QUEST_20150323_001499	{memo X}Otimo! E um acordo!
 QUEST_20150323_001500	{memo X}Then don't. Pfft.
 QUEST_20150323_001501	{memo X}You're a bum.
-QUEST_20150323_001502	{memo X}$Here. You're more pathetic than I am…
+QUEST_20150323_001502	{memo X}$Aqui. Voce e mais patetico que eu...
 QUEST_20150323_001503	{memo X}Ah, what's up? 
 QUEST_20150323_001504	Farming alone keeps me busy.
-QUEST_20150323_001505	I'm not sure yet… About that… Rebellion.
+QUEST_20150323_001505	Eu nao tenho certeza ainda... Sobre aquela... Rebeliao.
 QUEST_20150323_001506	$It's enticing, but…
 QUEST_20150323_001507	{memo X}Do you have a written letter of Horacius? 
 QUEST_20150323_001508	{memo X}No wonder! Here you go.
