@@ -14636,28 +14636,28 @@ ETC_20150918_014637	You have succeeded in Palanx trainings that prepare for the 
 ETC_20150918_014638	You have succeeded in persuasion!{nl}Bring it to the Apsauga Altar
 ETC_20150918_014639	You have obtained the sap of small trees!
 ETC_20150918_014640	You used the absorb scroll
-ETC_20150918_014641	You won't be able to summon the monsters in the region.
-ETC_20150918_014642	This skill can't be used in the region.
-ETC_20150918_014643	Due to an error, the client will be closed.{nl}We apologize for the inconvenience.{nl}When you press [Yes] at the bottom of the screen, the details of the error will be sent to the developer.{nl}{nl}??The information that will be sent : Error Code, CPU, VGA, Memory Driver Information
-ETC_20150918_014644	[Rogue Master]{nl}    Gema
-ETC_20150918_014645	[Item Merchant]{nl}    Muras
-ETC_20150918_014646	[Equipment Merchant]{nl}    
-ETC_20150918_014647	[Blacksmith]{nl}       Anna
-ETC_20150918_014648	[Market Manager]{nl}     Molun
-ETC_20150918_014649	[Storage Keeper]{nl}      Zadan
-ETC_20150918_014650	Catacombs Basement Dungeon Notice Board
-ETC_20150918_014651	[Accessories Merchant]{nl}   Yoana
-ETC_20150918_014652	Bomb Box
-ETC_20150918_014653	Underground Chapel Dungeon Dungeon Notice Board
-ETC_20150918_014654	{memo X}Crisp Grass Pile
-ETC_20150918_014655	The grave without an owner
-ETC_20150918_014656	{memo X}Suspicious Device
+ETC_20150918_014641	Você não pode invocar monstros nessa área.
+ETC_20150918_014642	Essa habilidade não pode ser usada nessa área.
+ETC_20150918_014643	Devido a um erro, o cliente fechará.{nl}Pedimos desculpas pelo inconveniente.{nl}Quando você aperta [SIM] no rodapé da tela, os detalhes do erro serão enviados ao desenvolvedor.{nl}{nl}??Informações que serão enviadas : Error Code, CPU, VGA, Memory Driver Information
+ETC_20150918_014644	[Mestre Rogue]{nl}    Gema
+ETC_20150918_014645	[Vendedor de Itens]{nl}    Muras
+ETC_20150918_014646	[Vendedor de equipamentos]{nl}    
+ETC_20150918_014647	[Ferreiro]{nl}       Anna
+ETC_20150918_014648	[Gerente do Mercado]{nl}     Molun
+ETC_20150918_014649	[Guardião de Armazém]{nl}      Zadan
+ETC_20150918_014650	Guadro de Avisos da Catacombs Basement Dungeon
+ETC_20150918_014651	[Vendedora de Acessorios]{nl}   Yoana
+ETC_20150918_014652	Caixa de bomba
+ETC_20150918_014653	Guadro de Avisos da Underground Chapel Dungeon
+ETC_20150918_014654	{memo X}Pilha de grama fresca
+ETC_20150918_014655	A sepultura sem dono
+ETC_20150918_014656	{memo X}Dispositivo Suspeito
 ETC_20150918_014657	Gailryus Legwyn
-ETC_20150918_014658	Vendor
-ETC_20150918_014659	{memo X}Spirit Grass
+ETC_20150918_014658	Fornecedor
+ETC_20150918_014659	{memo X}Grama Espiritual
 ETC_20150918_014660	
 ETC_20150918_014661	
-ETC_20150918_014662	Grand Mage Tower Dungeon Notice Board
+ETC_20150918_014662	Guadro de Avisos da Cidade do Grande Mago.
 ETC_20151001_014663	
 ETC_20151001_014664	
 ETC_20151001_014665	
@@ -14765,13 +14765,13 @@ ETC_20151001_014766
 ETC_20151001_014767	
 ETC_20151001_014768	
 ETC_20151001_014769	
-ETC_20151001_014770	{img emoticon_0022 30 30} I'm sorry
-ETC_20151001_014771	{img emoticon_0001 30 30} Thanks
-ETC_20151001_014772	{img emoticon_0002 30 30} Good
-ETC_20151001_014773	{img emoticon_0010 30 30} Surprised
-ETC_20151001_014774	{img emoticon_0016 30 30} Crying
-ETC_20151001_014775	{img emoticon_0007 30 30} Love
-ETC_20151001_014776	{img emoticon_0006 30 30} Hello
+ETC_20151001_014770	{img emoticon_0022 30 30} Me desculpe
+ETC_20151001_014771	{img emoticon_0001 30 30} Obrigado
+ETC_20151001_014772	{img emoticon_0002 30 30} Boa
+ETC_20151001_014773	{img emoticon_0010 30 30} Surpreso
+ETC_20151001_014774	{img emoticon_0016 30 30} Chorando
+ETC_20151001_014775	{img emoticon_0007 30 30} Amor
+ETC_20151001_014776	{img emoticon_0006 30 30} Olá
 ETC_20151001_014777	
 ETC_20151001_014778	
 ETC_20151001_014779	
@@ -15192,11 +15192,11 @@ ETC_20151001_015193
 ETC_20151001_015194	
 ETC_20151001_015195	
 ETC_20151001_015196	
-ETC_20151001_015197	Don't die!
+ETC_20151001_015197	Não morra!
 ETC_20151001_015198	
 ETC_20151001_015199	
-ETC_20151001_015200	Skull Slash!!
-ETC_20151001_015201	Level {Level}
+ETC_20151001_015200	Golpear Caveira!!
+ETC_20151001_015201	Nível {Level}
 ETC_20151001_015202	Equip One-handed Sword Dagger
 ETC_20151001_015203	Equip One-handed Sword Secondary
 ETC_20151001_015204	Equip Crossbow Dagger
@@ -15205,22 +15205,22 @@ ETC_20151001_015206	Equip One-handed Secondary
 ETC_20151001_015207	Equip Bludgeon Dagger
 ETC_20151001_015208	Equip Bludgeon Secondary
 ETC_20151001_015209	Equip Pistol Dagger
-ETC_20151001_015210	Able to use in Crystal Mine 1F
-ETC_20151001_015211	Able to use in Crystal Mine
+ETC_20151001_015210	Possivel usar na Crystal Mine 1F
+ETC_20151001_015211	Possivel usar na Crystal Mine
 ETC_20151001_015212	Minimap -
 ETC_20151001_015213	Minimap +
-ETC_20151001_015214	Chat Macro
+ETC_20151001_015214	Atalho de chat
 ETC_20151001_015215	
 ETC_20151001_015216	Chat (Pad)
-ETC_20151001_015217	Status
-ETC_20151001_015218	Character Info
-ETC_20151001_015219	Skill Tree
-ETC_20151001_015220	Quest Info
-ETC_20151001_015221	Pose
-ETC_20151001_015222	Basic Actions
-ETC_20151001_015223	System Menu
-ETC_20151001_015224	Wizard Shaman Doll
-ETC_20151001_015225	Black Note
+ETC_20151001_015217	Atributos
+ETC_20151001_015218	Informações de personagem
+ETC_20151001_015219	Árvore de Habilidades
+ETC_20151001_015220	Informação de Quest
+ETC_20151001_015221	Poses
+ETC_20151001_015222	Ações básicas
+ETC_20151001_015223	Menu do Sistema
+ETC_20151001_015224	Boneco Shaman do Bruxo
+ETC_20151001_015225	Bilhete Negro
 ETC_20151001_015226	
 ETC_20151001_015227	
 ETC_20151001_015228	
@@ -15234,13 +15234,13 @@ ETC_20151001_015235
 ETC_20151001_015236	
 ETC_20151001_015237	
 ETC_20151001_015238	
-ETC_20151001_015239	Barrier Crystal
-ETC_20151001_015240	Rajatoad's Egg
+ETC_20151001_015239	Barreira de Cristal
+ETC_20151001_015240	Ovo de Rajatoad
 ETC_20151001_015241	
-ETC_20151001_015242	Defensive Magic Circle
+ETC_20151001_015242	Circulo de defesa mágica
 ETC_20151001_015243	
 ETC_20151001_015244	
-ETC_20151001_015245	Demon Flag
+ETC_20151001_015245	Bandeira Demoniaca
 ETC_20151001_015246	Castle Field_65_3
 ETC_20151001_015247	
 ETC_20151001_015248	
@@ -15303,26 +15303,26 @@ ETC_20151001_015304
 ETC_20151001_015305	
 ETC_20151001_015306	
 ETC_20151001_015307	
-ETC_20151001_015308	Battle Start!
-ETC_20151001_015309	Team 2 Wins
-ETC_20151001_015310	Team 1 Wins
-ETC_20151001_015311	[First Blood] Destroy a building (%d/%d){nl}Reward: 2500 Coins
-ETC_20151001_015312	%s is the first to destroy the enemy's building. (2500 Coins rewarded)
-ETC_20151001_015313	[First Blood] Kill an Enemy Player (%d/%d){nl}Reward: 2500 Coins 
-ETC_20151001_015314	%s killed a player! (2500 Coins rewarded)
-ETC_20151001_015315	Defeat 7 Kepas (%d/%d){nl}Reward: 2500 Coins
-ETC_20151001_015316	%s defeated 7 Kepas! (2500 Coins rewarded)
-ETC_20151001_015317	Defeat Ludas Vubbe (%d/%d){nl}Reward : 2500 Coins
-ETC_20151001_015318	%s defeated Ludas Vubbe! (2500 Coins rewarded)
-ETC_20151001_015319	Defeat Treasure Vubbe (%d/%d){nl}Reward : 2500 Coins
-ETC_20151001_015320	%s defeated Treasure Vubbe! (2500 Coins rewarded)
-ETC_20151001_015321	The game has ended. You will return to the zone after 1 minute.
-ETC_20151001_015322	{@st42}Name{/}
-ETC_20151001_015323	{@st42}Kills
-ETC_20151001_015324	{@st42}Points
+ETC_20151001_015308	A Batalha Começou!
+ETC_20151001_015309	Time 2 Venceu
+ETC_20151001_015310	Time 1 Venceu
+ETC_20151001_015311	[First Blood] Destrua uma acampamento (%d/%d){nl}Reward: 2500 moedas
+ETC_20151001_015312	%s foi o primeiro a destruir o acampamento inimigo. (2500 Coins recebidas)
+ETC_20151001_015313	[First Blood] Mate um jogador inimigo (%d/%d){nl}Reward: 2500 moedas 
+ETC_20151001_015314	%s Matou um jogador! (2500 moedas recebidas)
+ETC_20151001_015315	Destrua 7 Kepas (%d/%d){nl}Reward: 2500 moedas
+ETC_20151001_015316	%s Destruiu 7 Kepas! (2500 moedas recebidas)
+ETC_20151001_015317	Destrua o Vubbe Ludas (%d/%d){nl}Reward : 2500 moedas
+ETC_20151001_015318	%s Destrua o Vubbe Ludas! (2500 moedas recebidas)
+ETC_20151001_015319	Destrua o Vubbe Tesouro (%d/%d){nl}Reward : 2500 moedas
+ETC_20151001_015320	%s Destrua o Vubbe Tesouro! (2500 moedas recebidas)
+ETC_20151001_015321	O Jogo terminou! Você retornará a área em 1 minuto.
+ETC_20151001_015322	{@st42}Nome{/}
+ETC_20151001_015323	{@st42}Mortes
+ETC_20151001_015324	{@st42}Pontos
 ETC_20151001_015325	
-ETC_20151001_015326	Summon
-ETC_20151001_015327	Destroy all the summonings within 20 minutes!
+ETC_20151001_015326	Invoque
+ETC_20151001_015327	Destrua todos os invocados em até 20 minutos!
 ETC_20151001_015328	
 ETC_20151001_015329	
 ETC_20151001_015330	
@@ -15366,69 +15366,69 @@ ETC_20151001_015368	17F
 ETC_20151001_015369	18F
 ETC_20151001_015370	19F
 ETC_20151001_015371	20F
-ETC_20151001_015372	Lobby
-ETC_20151001_015373	Cleared the 1st floor!{nl}Break the door to move to the next floor!
-ETC_20151001_015374	Cleared the 2nd floor!{nl}Break the door to move to the next floor!
-ETC_20151001_015375	Cleared the 3rd floor!{nl}Break the door to move to the next floor!
-ETC_20151001_015376	Cleared the 4th floor!{nl}Break the door to move to the next floor!
-ETC_20151001_015377	Cleared the 5th floor!{nl}Break the door to move to the next floor!
-ETC_20151001_015378	Cleared the 6th floor!{nl}Break the door to move to the next floor!
-ETC_20151001_015379	Cleared the 7th floor!{nl}Break the door to move to the next floor!
-ETC_20151001_015380	Cleared the 8th floor!{nl}Break the door to move to the next floor!
-ETC_20151001_015381	Cleared the 9th floor!{nl}Break the door to move to the next floor!
-ETC_20151001_015382	Cleared the 10th floor!{nl}Break the door to move to the next floor!
-ETC_20151001_015383	Cleared the 11th floor!{nl}Break the door to move to the next floor!
-ETC_20151001_015384	Cleared the 12th floor!{nl}Break the door to move to the next floor!
-ETC_20151001_015385	Cleared the 13th floor!{nl}Break the door to move to the next floor!
-ETC_20151001_015386	Cleared the 14th floor!{nl}Break the door to move to the next floor!
-ETC_20151001_015387	Cleared the 15th floor!{nl}Break the door to move to the next floor!
-ETC_20151001_015388	Cleared the 16th floor!{nl}Break the door to move to the next floor!
-ETC_20151001_015389	Cleared the 17th floor!{nl}Break the door to move to the next floor!
-ETC_20151001_015390	Cleared the 18th floor!{nl}Break the door to move to the next floor!
-ETC_20151001_015391	Cleared the 19th floor!{nl}Break the door to move to the next floor!
-ETC_20151001_015392	Cleared the 20th floor!{nl}Break the door to move to the next floor!
-ETC_20151001_015393	Monsters will appear on the 1st floor after 10 seconds!
-ETC_20151001_015394	Monsters will appear on the 2nd floor after 10 seconds!
-ETC_20151001_015395	Monsters will appear on the 3rd floor after 10 seconds!
-ETC_20151001_015396	Monsters will appear on the 4th floor after 10 seconds!
-ETC_20151001_015397	Monsters will appear on the 5th floor after 10 seconds!
-ETC_20151001_015398	Monsters will appear on the 6th floor after 10 seconds!
-ETC_20151001_015399	Monsters will appear on the 7th floor after 10 seconds!
-ETC_20151001_015400	Monsters will appear on the 8th floor after 10 seconds!
-ETC_20151001_015401	Monsters will appear on the 9th floor after 10 seconds!
-ETC_20151001_015402	Monsters will appear on the 10th floor after 10 seconds!
-ETC_20151001_015403	Monsters will appear on the 11th floor after 10 seconds!
-ETC_20151001_015404	Monsters will appear on the 12th floor after 10 seconds!
-ETC_20151001_015405	Monsters will appear on the 13th floor after 10 seconds!
-ETC_20151001_015406	Monsters will appear on the 14th floor after 10 seconds!
-ETC_20151001_015407	Monsters will appear on the 15th floor after 10 seconds!
-ETC_20151001_015408	Monsters will appear on the 16th floor after 10 seconds!
-ETC_20151001_015409	Monsters will appear on the 17th floor after 10 seconds!
-ETC_20151001_015410	Monsters will appear on the 18th floor after 10 seconds!
-ETC_20151001_015411	Monsters will appear on the 19th floor after 10 seconds!
-ETC_20151001_015412	Monsters will appear on the 20th floor after 10 seconds!
+ETC_20151001_015372	Sala de Espera
+ETC_20151001_015373	1º Andar Completo!{nl}Destrua a porta para mover para o próximo andar!
+ETC_20151001_015374	2º Andar Completo!{nl}Destrua a porta para mover para o próximo andar!
+ETC_20151001_015375	3º Andar Completo!{nl}Destrua a porta para mover para o próximo andar!
+ETC_20151001_015376	4º Andar Completo!{nl}Destrua a porta para mover para o próximo andar!
+ETC_20151001_015377	5º Andar Completo!{nl}Destrua a porta para mover para o próximo andar!
+ETC_20151001_015378	6º Andar Completo!{nl}Destrua a porta para mover para o próximo andar!
+ETC_20151001_015379	7º Andar Completo!{nl}Destrua a porta para mover para o próximo andar!
+ETC_20151001_015380	8º Andar Completo!{nl}Destrua a porta para mover para o próximo andar!
+ETC_20151001_015381	9º Andar Completo!{nl}Destrua a porta para mover para o próximo andar!
+ETC_20151001_015382	10º Andar Completo!{nl}Destrua a porta para mover para o próximo andar!
+ETC_20151001_015383	11º Andar Completo!{nl}Destrua a porta para mover para o próximo andar!
+ETC_20151001_015384	12º Andar Completo!{nl}Destrua a porta para mover para o próximo andar!
+ETC_20151001_015385	13º Andar Completo!{nl}Destrua a porta para mover para o próximo andar!
+ETC_20151001_015386	14º Andar Completo!{nl}Destrua a porta para mover para o próximo andar!
+ETC_20151001_015387	15º Andar Completo!{nl}Destrua a porta para mover para o próximo andar!
+ETC_20151001_015388	16º Andar Completo!{nl}Destrua a porta para mover para o próximo andar!
+ETC_20151001_015389	17º Andar Completo!{nl}Destrua a porta para mover para o próximo andar!
+ETC_20151001_015390	18º Andar Completo!{nl}Destrua a porta para mover para o próximo andar!
+ETC_20151001_015391	19º Andar Completo!{nl}Destrua a porta para mover para o próximo andar!
+ETC_20151001_015392	20º Andar Completo!{nl}Destrua a porta para mover para o próximo andar!
+ETC_20151001_015393	Os Monstros irão surgir no 1º andar após 10 segundos!
+ETC_20151001_015394	Os Monstros irão surgir no 2º andar após 10 segundos!
+ETC_20151001_015395	Os Monstros irão surgir no 3º andar após 10 segundos!
+ETC_20151001_015396	Os Monstros irão surgir no 4º andar após 10 segundos!
+ETC_20151001_015397	Os Monstros irão surgir no 5º andar após 10 segundos!
+ETC_20151001_015398	Os Monstros irão surgir no 6º andar após 10 segundos!
+ETC_20151001_015399	Os Monstros irão surgir no 7º andar após 10 segundos!
+ETC_20151001_015400	Os Monstros irão surgir no 8º andar após 10 segundos!
+ETC_20151001_015401	Os Monstros irão surgir no 9º andar após 10 segundos!
+ETC_20151001_015402	Os Monstros irão surgir no 10º andar após 10 segundos!
+ETC_20151001_015403	Os Monstros irão surgir no 11º andar após 10 segundos!
+ETC_20151001_015404	Os Monstros irão surgir no 12º andar após 10 segundos!
+ETC_20151001_015405	Os Monstros irão surgir no 13º andar após 10 segundos!
+ETC_20151001_015406	Os Monstros irão surgir no 14º andar após 10 segundos!
+ETC_20151001_015407	Os Monstros irão surgir no 15º andar após 10 segundos!
+ETC_20151001_015408	Os Monstros irão surgir no 16º andar após 10 segundos!
+ETC_20151001_015409	Os Monstros irão surgir no 17º andar após 10 segundos!
+ETC_20151001_015410	Os Monstros irão surgir no 18º andar após 10 segundos!
+ETC_20151001_015411	Os Monstros irão surgir no 19º andar após 10 segundos!
+ETC_20151001_015412	Os Monstros irão surgir no 20º andar após 10 segundos!
 ETC_20151001_015413	
-ETC_20151001_015414	It starts after 10 seconds
-ETC_20151001_015415	Start!
-ETC_20151001_015416	You will return to the entrance after 60 seconds
+ETC_20151001_015414	Começará em 10 segundos
+ETC_20151001_015415	Começou!
+ETC_20151001_015416	Você retornará a entrada após 60 segundos
 ETC_20151001_015417	To Home
 ETC_20151001_015418	TrapCondition/0
-ETC_20151001_015419	The Iron Door has opened!
-ETC_20151001_015420	It starts after 10 seconds
-ETC_20151001_015421	Start!
-ETC_20151001_015422	You will returnto the entrance after 60 seconds
-ETC_20151001_015423	Start!!!
-ETC_20151001_015424	Cleared!! You will return to the entrance after 60 seconds
-ETC_20151001_015425	Completed after 60 seconds
-ETC_20151001_015426	You will return to the entrance after 60 seconds
-ETC_20151001_015427	Return to Zone
-ETC_20151001_015428	A boss monster has appeared!
-ETC_20151001_015429	Elaganos has appeared!
-ETC_20151001_015430	It starts after 10 seconds
+ETC_20151001_015419	A Porta de Ferro se abriu!
+ETC_20151001_015420	Começará em 10 segundos
+ETC_20151001_015421	Começou!
+ETC_20151001_015422	Você retornará a entrada após 60 segundos
+ETC_20151001_015423	Começou!!!
+ETC_20151001_015424	Completo!! Você retornará a entrada após 60 segundos
+ETC_20151001_015425	Completo após 60 segundos
+ETC_20151001_015426	Você retornará a entrada após 60 segundos
+ETC_20151001_015427	Retorne a área
+ETC_20151001_015428	O boss surgiu!
+ETC_20151001_015429	Elaganos surgiu!
+ETC_20151001_015430	Começará após 10 segundos
 ETC_20151001_015431	
 ETC_20151001_015432	
-ETC_20151001_015433	Failed!!!
-ETC_20151001_015434	Cleared!!!
+ETC_20151001_015433	Falhou!!!
+ETC_20151001_015434	Completo!!!
 ETC_20151001_015435	
 ETC_20151001_015436	
 ETC_20151001_015437	
