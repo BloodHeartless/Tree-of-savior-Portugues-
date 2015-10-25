@@ -953,8 +953,8 @@ ETC_20150317_000952	Romuva D
 ETC_20150317_000953	Romuva E
 ETC_20150317_000954	Mission Gorgon Golem
 ETC_20150317_000955	Mission Gorgon
-ETC_20150317_000956	Mission Necroventer
-ETC_20150317_000957	Mission Devilglove
+ETC_20150317_000956	{memo X}Mission Necroventer
+ETC_20150317_000957	{memo X}Mission Devilglove
 ETC_20150317_000958	Mission Dionia
 ETC_20150317_000959	Mission Draperiun
 ETC_20150317_000960	Mission Rutopus
@@ -1406,10 +1406,10 @@ ETC_20150317_001405	Fort of the Land 30_3
 ETC_20150317_001406	{memo X}Petrified City 29_1
 ETC_20150317_001407	Coral Plains 32_1
 ETC_20150317_001408	Coral Plains 32_2
-ETC_20150317_001409	32_3 Grand Fruit Forest
+ETC_20150317_001409	{memo X}32_3 Grand Fruit Forest
 ETC_20150317_001410	32_4 Grand Fruit Forest
 ETC_20150317_001411	34_1 Grand Fruit Forest
-ETC_20150317_001412	34_2 Grand Fruit Forest
+ETC_20150317_001412	{memo X}34_2 Grand Fruit Forest
 ETC_20150317_001413	34_3 Grand Fruit Forest
 ETC_20150317_001414	Siauliai 35_1
 ETC_20150317_001415	Coral Plains 35_2
@@ -7111,17 +7111,17 @@ ETC_20150317_007111	Bouquet 2
 ETC_20150317_007112	Cat
 ETC_20150317_007113	Royal Cube
 ETC_20150317_007114	Royal Tombstone01
-ETC_20150317_007115	Royal Tombstone02
-ETC_20150317_007116	Royal Stone Lantern
-ETC_20150317_007117	Brickwall
-ETC_20150317_007118	Broken Moving Trap
-ETC_20150317_007119	Transparency Target
-ETC_20150317_007120	Destroyed Moving Trap
-ETC_20150317_007121	Mage Tower Defense
-ETC_20150317_007122	Mage Tower Gate
+ETC_20150317_007115	{memo X}Royal Tombstone02
+ETC_20150317_007116	{memo X}Royal Stone Lantern
+ETC_20150317_007117	{memo X}Brickwall
+ETC_20150317_007118	{memo X}Broken Moving Trap
+ETC_20150317_007119	{memo X}Transparency Target
+ETC_20150317_007120	{memo X}Destroyed Moving Trap
+ETC_20150317_007121	{memo X}Mage Tower Defense
+ETC_20150317_007122	{memo X}Mage Tower Gate
 ETC_20150317_007123	Mage Tower Offense
 ETC_20150317_007124	Path
-ETC_20150317_007125	Start Infinite Game
+ETC_20150317_007125	{memo X}Start Infinite Game
 ETC_20150317_007126	Warp to another area
 ETC_20150317_007127	Paper fell on the ground
 ETC_20150317_007128	Hogma Stone Statue
@@ -7145,7 +7145,7 @@ ETC_20150317_007145	Heart Sculpture on
 ETC_20150317_007146	Demonic Form Rexipher
 ETC_20150317_007147	Cathedral Quest Gate
 ETC_20150317_007148	Cathedral Mini Chair
-ETC_20150317_007149	Belfry Rope
+ETC_20150317_007149	{memo X}Belfry Rope
 ETC_20150317_007150	Cathedral Gate
 ETC_20150317_007151	Tools Tub
 ETC_20150317_007152	Cable Car Controller
@@ -7521,7 +7521,7 @@ ETC_20150317_007521	Lost Package Collection
 ETC_20150317_007522	Pilgrim memorial stone Writing
 ETC_20150317_007523	Solder's body Collection
 ETC_20150317_007524	Collection the butterfly scent of butterfly tomb
-ETC_20150317_007525	Check the neglected wagon
+ETC_20150317_007525	{memo X}Check the neglected wagon
 ETC_20150317_007526	{memo X}Memorial Ceremony (4)
 ETC_20150317_007527	Guided Soul
 ETC_20150317_007528	{memo X}Save the soul
@@ -7545,8 +7545,8 @@ ETC_20150317_007545	Fill the jewel with fire's essence
 ETC_20150317_007546	Information of a magic control valves
 ETC_20150317_007547	{memo X}Destroy Trap
 ETC_20150317_007548	Rescue Paladin (3)
-ETC_20150317_007549	Listen to the next plan from Commander Raimondas
-ETC_20150317_007550	Find the animal's dead body
+ETC_20150317_007549	{memo X}Listen to the next plan from Commander Raimondas
+ETC_20150317_007550	{memo X}Find the animal's dead body
 ETC_20150317_007551	Deliver the Divine Sphere to Paladin (1)
 ETC_20150317_007552	Deliver the Divine Sphere to Paladin (2)
 ETC_20150317_007553	Tree Guard Post Enhancement against the demon's soul
@@ -7779,7 +7779,7 @@ ETC_20150317_007779	Destroyer (1)
 ETC_20150317_007780	Protect yourself from monsters is attacking
 ETC_20150317_007781	Kill High Vubbe and get the wooden arrow
 ETC_20150317_007782	Input the wooden arrow to fire
-ETC_20150317_007783	Steel the booty of Siaulamb
+ETC_20150317_007783	{memo X}Steel the booty of Siaulamb
 ETC_20150317_007784	- press this key to use Status Points.
 ETC_20150317_007785	To Klaipeda (5)
 ETC_20150317_007786	Recapture Eastern Woods (2)
@@ -10665,7 +10665,7 @@ ETC_20150401_010666	Abandoned Altar
 ETC_20150401_010667	{memo X}Royal Mausoleum Altar
 ETC_20150401_010668	TypeBSuccess manager
 ETC_20150401_010669	Wreckage of the collapse
-ETC_20150401_010670	Boss Area Manager
+ETC_20150401_010670	{memo X}Boss Area Manager
 ETC_20150401_010671	Wagon Manager
 ETC_20150401_010672	Stone Manager
 ETC_20150401_010673	{memo X}Wagon Manager_2
@@ -10854,8 +10854,8 @@ ETC_20150414_010855	Red Infrorocktor
 ETC_20150414_010856	Old Infrorocktor
 ETC_20150414_010857	Red Infro Blood
 ETC_20150414_010858	Black Caulifly
-ETC_20150414_010859	Blue Black Caulifly
-ETC_20150414_010860	Yellow Caulifly
+ETC_20150414_010859	{memo X}Blue Black Caulifly
+ETC_20150414_010860	{memo X}Yellow Caulifly
 ETC_20150414_010861	Digo
 ETC_20150414_010862	Clothes rack
 ETC_20150414_010863	{memo X}Normal Type
@@ -14112,7 +14112,7 @@ ETC_20150803_014113	{memo X}Hand over the keepstakes of Grizina
 ETC_20150803_014114	{memo X}Help Alina
 ETC_20150803_014115	Hunt for green Cockats with Zareth
 ETC_20150803_014116	{memo X}Collect the bushes that are needed to make verification tickets
-ETC_20150803_014117	Tell Amanda about the circumstances
+ETC_20150803_014117	{memo X}Tell Amanda about the circumstances
 ETC_20150803_014118	Dig through the grass bushes to find somthing to eat
 ETC_20150803_014119	{memo X}Throw the core to the terminal
 ETC_20150803_014120	The channel is full
@@ -14221,12 +14221,12 @@ ETC_20150918_014222	Paper Box
 ETC_20150918_014223	
 ETC_20150918_014224	
 ETC_20150918_014225	
-ETC_20150918_014226	
+ETC_20150918_014226	Genra Field
 ETC_20150918_014227	Fallen Legwyn Family Dungeon
-ETC_20150918_014228	Grand Mage Tower Dungeon
-ETC_20150918_014229	{memo X}
-ETC_20150918_014230	{memo X}
-ETC_20150918_014231	{memo X}
+ETC_20150918_014228	Archmage Tower Dungeon
+ETC_20150918_014229	{memo X}Prison62_1
+ETC_20150918_014230	{memo X}Prison62_2
+ETC_20150918_014231	{memo X}Prison62_3
 ETC_20150918_014232	
 ETC_20150918_014233	
 ETC_20150918_014234	
@@ -14298,17 +14298,17 @@ ETC_20150918_014299
 ETC_20150918_014300	
 ETC_20150918_014301	
 ETC_20150918_014302	Find a clue on the disappearance from Sauga's Bag
-ETC_20150918_014303	{memo X}
+ETC_20150918_014303	{memo X}Defeat the demons that were lured to flares
 ETC_20150918_014304	
-ETC_20150918_014305	{memo X}
-ETC_20150918_014306	{memo X}
-ETC_20150918_014307	{memo X}
-ETC_20150918_014308	{memo X}
-ETC_20150918_014309	
-ETC_20150918_014310	{memo X}
-ETC_20150918_014311	
-ETC_20150918_014312	
-ETC_20150918_014313	
+ETC_20150918_014305	{memo X}Widen the gap to run away
+ETC_20150918_014306	{memo X}Return Haksun to the camp
+ETC_20150918_014307	{memo X}The magic field of Eminent
+ETC_20150918_014308	{memo X}Activate the designated devices
+ETC_20150918_014309	Move to Plan B if Plan A is not possible to carry out
+ETC_20150918_014310	{memo X}Recharge the demonic power using the vitalities of monsters
+ETC_20150918_014311	Protect the camp
+ETC_20150918_014312	The way to overcome the severe coldness
+ETC_20150918_014313	The creator of the flame
 ETC_20150918_014314	
 ETC_20150918_014315	
 ETC_20150918_014316	
@@ -14316,20 +14316,20 @@ ETC_20150918_014317
 ETC_20150918_014318	
 ETC_20150918_014319	
 ETC_20150918_014320	
-ETC_20150918_014321	
-ETC_20150918_014322	
-ETC_20150918_014323	
-ETC_20150918_014324	{memo X}
-ETC_20150918_014325	
-ETC_20150918_014326	
-ETC_20150918_014327	
-ETC_20150918_014328	{memo X}
-ETC_20150918_014329	
-ETC_20150918_014330	
-ETC_20150918_014331	
-ETC_20150918_014332	
-ETC_20150918_014333	
-ETC_20150918_014334	
+ETC_20150918_014321	The spirit that remembers its life before death
+ETC_20150918_014322	Fill in the stone of evil thoughts
+ETC_20150918_014323	The ones who were the brothers
+ETC_20150918_014324	{memo X}Take care of the priest that resurrected
+ETC_20150918_014325	Karail's Test
+ETC_20150918_014326	Karail's Test
+ETC_20150918_014327	Instead of handing it over to them
+ETC_20150918_014328	{memo X}Burn the ownership of the manor
+ETC_20150918_014329	The Past of the Spirits (1)
+ETC_20150918_014330	{memo X}Obtain the living creatures of the demons
+ETC_20150918_014331	The Past of the Spirits (2)
+ETC_20150918_014332	The Past of the Spirits (3)
+ETC_20150918_014333	{memo X}Use the bones of the demons to absorb the vitalities of demons
+ETC_20150918_014334	The Past of the Spirits (4)
 ETC_20150918_014335	
 ETC_20150918_014336	
 ETC_20150918_014337	{memo X}
