@@ -98,22 +98,22 @@ QUEST_20150317_000097	Eu? Eu acho engracado, entao eu nao me importo.
 QUEST_20150317_000098	Uh, espere. Eu retiro o que eu falei sobre nao acreditar em nada que ele diga.
 QUEST_20150317_000099	Tudo que sai da boca dele e uma mentira. Nao acredite nele.
 QUEST_20150317_000100	Siauliai Guard
-QUEST_20150317_000101	{memo X}There are monsters beyond this point. Be careful.
-QUEST_20150317_000102	These woods aren't exactly peaceful, but it's better than other places. {nl}There are forests that have nothing but souls roaming about.
-QUEST_20150317_000103	$This is what people who have seen a Goddess in their dreams are being called.
-QUEST_20150317_000104	$I thought the Revelators' visions were madness at first. {nl}The Goddesses have been gone for a long time after all.
-QUEST_20150317_000105	$Isn't it true that the Goddesses haven't been responding to our prayers ever since Medis Diena four years ago?
-QUEST_20150317_000106	$You can find Class Masters all around the kingdom. {nl}Why don't you visit them and learn what you can?
-QUEST_20150317_000107	$You don't know about Medis Diena? You must have come from really far away. {nl}Four years ago, things went out of control in the capital.
-QUEST_20150317_000108	${memo X}It was a disaster… Many people were either injured or killed. {nl}Once gentle creatures grew fierce and many new monsters emerged.
-QUEST_20150317_000109	$If you want to understand what happened on Medis Diena four years ago, then go to Klaipeda. {nl}Many of its survivors have taken refuge there.
+QUEST_20150317_000101	{memo X}Tome cuidado, existem monstros a partir daqui.
+QUEST_20150317_000102	Esta floresta nao e exatamente segura, mas e melhor que muitos outros lugares. {nl}Existem florestas que nao possuem nada alem de almas.
+QUEST_20150317_000103	Isto e como pessoas que viram uma Deusa em seus sonhos sao chamadas.
+QUEST_20150317_000104	$Eu pensei que as visoes do Revelador eram loucuras no comeco. {nl}Faz tempo que as Deusas se foram, afinal.
+QUEST_20150317_000105	$Nao e verdade que as Deusas nao respondem mais nossas oracoes desde o Medis Diena, quatro anos atras?
+QUEST_20150317_000106	$Voce pode achar Mestres de Classe em todos os lugares do reino. {nl}Porque voce nao visita um deles e tenta aprender algo?
+QUEST_20150317_000107	$Voce nao sabe nada sobre Medis Diena? Voce deve ter vindo de muito longe. {nl}Quatro anos atras, as coisas sairam de controle na capital.
+QUEST_20150317_000108	${memo X}Foi um desastre, muitas pessoas se machucaram ou morreram. {nl}Criaturas que eram bondosas se tornaram violentas e muitos novos monstros surgiram.
+QUEST_20150317_000109	$Se voce quer entender o que aconteceu no Medis Diena quatro anos atras, va para Klaipeda. {nl}Muitos sobreviventes se refugiaram la.
 QUEST_20150317_000110	Eastern Woods Sentinel
-QUEST_20150317_000111	Are you heading to the Eastern Woods? {nl}You mustn't! It's far too dangerous!
-QUEST_20150317_000112	Damn, those stubborn things chased us this far!
-QUEST_20150317_000113	{memo X}Those screams… We're under attack!
+QUEST_20150317_000111	Voce esta indo para Eastern Woods? {nl}Voce nao pode! E muito perigoso!
+QUEST_20150317_000112	Droga, essas criaturas teimaosas nos seguiram ate aqui.
+QUEST_20150317_000113	{memo X}Esses gritos... Estamos sob ataque!
 QUEST_20150317_000114	Safety Instructions
-QUEST_20150317_000115	1. Only authorized personnel may enter. {nl}2. Always follow the directions of the mining supervisor.
-QUEST_20150317_000116	3. Do not approach closed-off areas. {nl}4. Any suspicious individuals should be reported to the Klaipeda Knights.
+QUEST_20150317_000115	1. Apenas pessoal autorizado pode entrar. {nl}2. Sempre siga as instrucoes do Supervisor da Mina.
+QUEST_20150317_000116	3. Nao entre nas areas fora dos limites. {nl}4. Qualquer individuo suspeito deve ser reportado para os Cavaleiros de  Klaipeda Knights.
 QUEST_20150317_000117	Supply Base Soldier
 QUEST_20150317_000118	I've never been in a real fight before so I'm a bit nervous.
 QUEST_20150317_000119	Farm Sentinel
