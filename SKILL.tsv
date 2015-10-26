@@ -791,7 +791,7 @@ SKILL_20150317_000790	$Attack an enemy with magic from a far distance.
 SKILL_20150317_000791	$Attack an enemy from a short distance(Warrior's Two-handed Sword only)
 SKILL_20150317_000792	$Attack an enemy magic from a far distance.(Two-handed Staff)
 SKILL_20150317_000793	$Dagger Pierce
-SKILL_20150317_000794	$Attack an enemy from a short distance. Knockbacks the target when it is struck a certain number of times.
+SKILL_20150317_000794	$Ataca um inimigo de uma curta distancia. Derruba o algo quando atingido varias vezes.
 SKILL_20150317_000795	Dream Song
 SKILL_20150317_000796	Shadow Umbrella
 SKILL_20150317_000797	$In development
@@ -799,7 +799,7 @@ SKILL_20150317_000798	$Item skill
 SKILL_20150317_000799	$Dash Attack
 SKILL_20150317_000800	This is the dash version of the base attack
 SKILL_20150317_000801	Zaibas
-SKILL_20150317_000802	{memo X}Lv.1 Attack Ratio #{SkillFactor}#, Splash #{SkillSR}#
+SKILL_20150317_000802	{memo X}Lv.1 Taxa de Ataque #{SkillFactor}#, Splash #{SkillSR}#
 SKILL_20150317_000803	$Basic
 SKILL_20150317_000804	$Basic Attack 2
 SKILL_20150317_000805	$Bow Left hand
@@ -815,14 +815,14 @@ SKILL_20150317_000814	Mischief 4
 SKILL_20150317_000815	Public_Test 5
 SKILL_20150317_000816	Mischief 5
 SKILL_20150317_000817	{memo X}Ice paster
-SKILL_20150317_000818	{memo X}{#993399}{ol}[Magic] - [Ice] - [Strike]{/}{/}{nl}Summon huge snowball and damage nearby enemies.
+SKILL_20150317_000818	{memo X}{#993399}{ol}[Magic] - [Ice] - [Strike]{/}{/}{nl}Invoca uma enorme Bola de Gelo e causa dano aos inimigos proximos.
 SKILL_20150317_000819	{memo X}Attack #{SkillAtkAdd}# {nl} Splash #{CaptionRatio}# {nl} Duration #{CaptionTime}# seconds
 SKILL_20150317_000820	$Hoplite
 SKILL_20150317_000821	$In development
-SKILL_20150317_000822	{memo X}Attack + #{SkillFactor}# , Splash #{SkillSR}# {nl}Consume #{SpendSP}# SP
+SKILL_20150317_000822	{memo X}Attack + #{SkillFactor}# , Splash #{SkillSR}# {nl}Consome #{SpendSP}# SP
 SKILL_20150317_000823	$Guard
-SKILL_20150317_000824	Block enemy attack with shield [Guard Point 150]
-SKILL_20150317_000825	$Physical Attack Ratio: +#{SkillFactor}# + #{SkillAtkAdd}#
+SKILL_20150317_000824	Bloqueia o ataque do inimigo com o escudo [Guard Point 150]
+SKILL_20150317_000825	$Physical Taxa de ataque: +#{SkillFactor}# + #{SkillAtkAdd}#
 SKILL_20150317_000826	[Golem Card] Physical Non-Property Strike
 SKILL_20150317_000827	[Mushcaria Card] Physical Poison Property Strike
 SKILL_20150317_000828	[Rocktortuga Card] Physical Non-Property Strike
@@ -918,23 +918,23 @@ SKILL_20150317_000917	[Yekub Card] Magic Dark Property Strike
 SKILL_20150317_000918	[Physical Shield] Non-Property Magic
 SKILL_20150317_000919	[Sparnasman Card] Physical Non-Property Magic
 SKILL_20150317_000920	$Thrust
-SKILL_20150317_000921	{memo X}{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Pierce and push back an enemy.
+SKILL_20150317_000921	{memo X}{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Perfura e empurra um inimigo.
 SKILL_20150317_000922	{memo X}Attack #{SkillAtkAdd}#{nl}Splash #{SkillSR}#
 SKILL_20150317_000923	$Bash
-SKILL_20150317_000924	{memo X}${#DD5500}{ol}[Physical] - [Slash]{/}{/}{nl}Inflicts damage to a target by strongly swinging your weapon.
+SKILL_20150317_000924	{memo X}${#DD5500}{ol}[Physical] - [Slash]{/}{/}{nl}Causa dano a um alvo por balançar forte sua arma.
 SKILL_20150317_000925	$Gung Ho
-SKILL_20150317_000926	{memo X}Increases your attack, but decreases your defense.
+SKILL_20150317_000926	{memo X}Aumenta o seu ataque, mas diminui sua defesa.
 SKILL_20150317_000927	$Physical Damage: +#{CaptionRatio}#{nl}Physical Defense: -#{CaptionRatio2}#{nl}Duration: #{CaptionTime}# seconds
 SKILL_20150317_000928	$Concentrate
-SKILL_20150317_000929	{memo X}$Increases the power of your attacking skills.
-SKILL_20150317_000930	$Additional Damage: +#{CaptionRatio2}#{nl}Number of Hits: #{CaptionRatio}#{nl}Duration: #{CaptionTime}# seconds
+SKILL_20150317_000929	{memo X}$Aumenta o poder de ataque de suas habilidades.
+SKILL_20150317_000930	$Additional Damage: +#{CaptionRatio2}#{nl}Quantidade de ataques: #{CaptionRatio}#{nl}Duration: #{CaptionTime}# seconds
 SKILL_20150317_000931	$Restrain
-SKILL_20150317_000932	{memo X}Decreases your maximum HP, but increases your attack.
-SKILL_20150317_000933	{memo X}Physical Attack + #{CaptionRatio}#{nl}Maximum HP - #{CaptionRatio2}# {nl} Duration #{CaptionTime}# seconds
+SKILL_20150317_000932	{memo X}Diminui o seu HP máximo para aumentar o seu ataque.
+SKILL_20150317_000933	{memo X}Physical Attack + #{CaptionRatio}#{nl}HP maximo - #{CaptionRatio2}# {nl} Duration #{CaptionTime}# seconds
 SKILL_20150317_000934	$Umbo Blow
-SKILL_20150317_000935	{memo X}{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Attack by bumping your shield. {nl} Inflicts more damage after blocking an enemy's attack.
+SKILL_20150317_000935	{memo X}{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Ataca por esbarrar o seu escudo. {nl} Causa mais dano apos bloquear o ataque de um inimigo.
 SKILL_20150317_000936	$Rim Blow
-SKILL_20150317_000937	{memo X}{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Attack by using the edge of your shield. {nl} Inflicts more damage to both petrified and frozen enemies.
+SKILL_20150317_000937	{memo X}{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Ataca usando a ponta do escudo. {nl} Causa mais dano a inimigos petrificados e congelados.
 SKILL_20150317_000938	$Swash Buckling
 SKILL_20150317_000939	{memo X}$Strike your shield to provoke nearby enemies.
 SKILL_20150317_000940	$Targets: #{SkillSR}#{nl}Maximum Provocation: +#{CaptionRatio}# for #{CaptionTime}# seconds
@@ -1086,23 +1086,23 @@ SKILL_20150317_001085	$Quick Cast
 SKILL_20150317_001086	{memo X}Cast Time decreased.
 SKILL_20150317_001087	$Cast Time -#{CaptionRatio}#%{nl}Duration #{CaptionTime}# seconds
 SKILL_20150317_001088	$Fireball
-SKILL_20150317_001089	{memo X}${#993399}{ol}[Magic] - [Fire]{/}{/}{nl} Summons a stationary fireball. You can blow it up by hitting it with a sword attack.
-SKILL_20150317_001090	{memo X}Attack #{SkillAtkAdd}#{nl}Attack #{SkillSR}# times{nl}Duration #{CaptionTime}# seconds
+SKILL_20150317_001089	{memo X}${#993399}{ol}[Magic] - [Fire]{/}{/}{nl} Invoca uma bola de fogo. Você pode empurrar a bola de fogo atacando ela com uma arma.
+SKILL_20150317_001090	{memo X}Ataque #{SkillAtkAdd}#{nl}Ataque #{SkillSR}# quantidade{nl}Duracao #{CaptionTime}# segundos
 SKILL_20150317_001091	$Fire Wall
-SKILL_20150317_001092	{memo X}${#993399}{ol}[Magic] - [Fire]{/}{/}{nl} Creates a flame barrier inflicting damage to nearby enemies.
-SKILL_20150317_001093	{memo X}Attack #{SkillAtkAdd}#{nl}#{CaptionRatio}# Fire Wall #{nl}Attack #{CaptionRatio2}# times{nl}Duration 15 seconds
+SKILL_20150317_001092	{memo X}${#993399}{ol}[Magic] - [Fire]{/}{/}{nl} Cria uma barreira de fogo que causa dano a inimigos proximos.
+SKILL_20150317_001093	{memo X}Ataque #{SkillAtkAdd}#{nl}#{CaptionRatio}# Fire Wall #{nl}Ataque #{CaptionRatio2}# quantidade{nl}Duracao 15 segundos
 SKILL_20150317_001094	$Enchant Fire
-SKILL_20150317_001095	{memo X}$Grants Fire property to the target. Additional damage applies to your basic attack.
-SKILL_20150317_001096	$Fire Property Attack: +#{CaptionRatio}#{nl}Additional Damage: +#{CaptionRatio2}#{nl}Duration: #{CaptionTime}# seconds
+SKILL_20150317_001095	{memo X}$Concede propriedade de fogo ao alvo. Dano adicional é acrescentado ao seu ataque basico.
+SKILL_20150317_001096	$Fire Ataque: +#{CaptionRatio}#{nl}Dano Adicional: +#{CaptionRatio2}#{nl}Duracao: #{CaptionTime}# segundos
 SKILL_20150317_001097	$Flare
-SKILL_20150317_001098	{memo X}${#993399}{ol}[Magic] - [Fire]{/}{/}{nl} Inflicts damage by exploding the enemy affected by a status effect. This excludes both petrified and frozen status effects.
-SKILL_20150317_001099	$Attack #{SkillAtkAdd}#
+SKILL_20150317_001098	{memo X}${#993399}{ol}[Magic] - [Fire]{/}{/}{nl} Causa dano explodindo um inimigo afetado por efeitos. Excluindo efeitos de petrificado e congelado.
+SKILL_20150317_001099	$Ataque #{SkillAtkAdd}#
 SKILL_20150317_001100	$Fire Pillar
-SKILL_20150317_001101	{memo X}${#993399}{ol}[Magic] - [Fire]{/}{/}{nl}Summon a fire pillar to damage a target.
-SKILL_20150317_001102	{memo X}Attack #{SkillAtkAdd}#{nl}Duration #{CaptionTime}# seconds
+SKILL_20150317_001101	{memo X}${#993399}{ol}[Magic] - [Fire]{/}{/}{nl}Invoca um pilar de fogo que causa dano a inimigos.
+SKILL_20150317_001102	{memo X}Ataque #{SkillAtkAdd}#{nl}Duracao #{CaptionTime}# segundos
 SKILL_20150317_001103	$Hell Breath
-SKILL_20150317_001104	{memo X}${#993399}{ol}[Magic] - [Fire]{/}{/}{nl} Continuously burn enemies with a cone of fire.
-SKILL_20150317_001105	{memo X}Attack #{SkillAtkAdd}#{nl}Consume #{CaptionRatio}#% SP per 0.5 seconds
+SKILL_20150317_001104	{memo X}${#993399}{ol}[Magic] - [Fire]{/}{/}{nl} Lança chamas continuamente que causa dano a inimigos.
+SKILL_20150317_001105	{memo X}Ataque #{SkillAtkAdd}#{nl}Consome #{CaptionRatio}#% SP por 0.5 segundos
 SKILL_20150317_001106	$Ice Bolt
 SKILL_20150317_001107	{memo X}${#993399}{ol}[Magic] - [Ice] - [Pierce]{/}{/}{nl} Inflicts damage to a target by launching a bolt of ice and has a chance to freeze the the target.
 SKILL_20150317_001108	{memo X}Attack #{SkillAtkAdd}#{nl}{#339999}{ol}[Frozen]{/}{/} Duration 3 seconds
